@@ -3,6 +3,7 @@ import re
 import scrapy
 from urllib.parse import urlparse
 
+from ..items import SpiderItem
 
 class TextSpider(scrapy.Spider):
     name = 'text'
@@ -31,9 +32,9 @@ class TextSpider(scrapy.Spider):
         lines = [re.sub(r'\s+', ' ', line) for line in lines]
         all_text_str = '\n'.join(lines)
 
-        with open('output.txt', 'a', encoding='utf-8') as f:
-            f.write(all_text_str + '\n')
-
+        item = SpiderItem()
+        item['text'] = all_text_str
+        yield item
         # Discover and follow links to other pages on the same domain
         for href in response.css('a::attr(href)').extract():
             next_page = response.urljoin(href)
