@@ -24,15 +24,9 @@ class TextSpider(scrapy.Spider):
 
 
         all_text_str = ''.join(all_text).strip()
-        # Splitting into lines, stripping leading/trailing spaces from each line,
-        # and filtering out blank lines and lines with 2 words or fewer
-        lines = [line.strip() for line in all_text_str.split('\n') if line.strip() and len(line.split()) > 2]
-        print(len(lines))
-        # Joining lines back into a single string with a single newline character between each line
-        lines = [re.sub(r'\s+', ' ', line) for line in lines]
-        all_text_str = '\n'.join(lines)
 
         item = SpiderItem()
+        item['url'] = response.url
         item['text'] = all_text_str
         yield item
         # Discover and follow links to other pages on the same domain
