@@ -10,3 +10,5 @@ You can use any data collection method like python crawler or manually collect d
 ## Step2: Data Augmentation
 Usually, the data you acquired may not be enough for training a Large Language Model. Here we introduce 3 methods for data augmentation.
 ## Step3: Model Training
+
+After data augmentation, you are able to craft your characters with open source LLM like LLaMA-2. Or you can skip this step, using the Data Augmentation AI as your characters.
