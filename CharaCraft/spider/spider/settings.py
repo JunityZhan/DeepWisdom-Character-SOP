@@ -63,7 +63,7 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   "spider.pipelines.GeneralPipeline": 100,
+    "spider.pipelines.GeneralPipeline": 100,
     "spider.pipelines.ConfiguredPipeline": 300,
 }
 

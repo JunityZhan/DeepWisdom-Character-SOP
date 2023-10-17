@@ -1,4 +1,5 @@
 import json
+from langdetect import detect
 import re
 
 
@@ -40,6 +41,23 @@ class GeneralPipeline:
         return item
 
 
+def get_language(text):
+    try:
+        return detect(text)
+    except:
+        return None
+
+
+def get_text_length(text):
+    language = get_language(text)
+    if language == 'en':  # For English
+        return len(text.split())
+    elif language in ['zh', 'ja']:  # For Chinese and Japanese
+        return len(text)
+    else:
+        return len(text.split())  # Default to word count
+
+
 class ConfiguredPipeline:
     """
     Pipeline that processes items based on a configuration.
@@ -56,13 +74,15 @@ class ConfiguredPipeline:
         Returns:
         - bool: True if the line should be removed, False otherwise.
         """
+        line_length = get_text_length(line)
+
         if any(keyword in line for keyword in path_config.get('rm_line_keywords', [])):
             return True
 
-        if len(line) < path_config.get('min_line_len', 0):
+        if line_length < path_config.get('min_line_len', 0):
             return True
 
-        if len(line) > path_config.get('max_line_len', float('inf')):
+        if line_length > path_config.get('max_line_len', float('inf')):
             return True
 
         return False
@@ -103,7 +123,6 @@ class ConfiguredPipeline:
 
             for path in url_paths:
                 path_config = config.get(path, {})
-
                 if any(keyword in line for keyword in path_config.get('rm_page_keywords', [])):
                     return None
 
@@ -118,4 +137,3 @@ class ConfiguredPipeline:
 
         item['text'] = '\n'.join(processed_text)
         return item
-
