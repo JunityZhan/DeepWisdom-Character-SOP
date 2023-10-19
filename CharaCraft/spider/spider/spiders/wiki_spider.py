@@ -25,7 +25,6 @@ class TextSpider(scrapy.Spider):
 
     def parse(self, response):
         """Extract text from the page and follow links within the allowed domain."""
-
         # Extract text from the page, excluding content within scripts or hidden elements
         all_text = response.xpath(
             '(//div)/descendant-or-self::text()[not(ancestor::script) and not(ancestor-or-self::*[contains(@style, '

@@ -2,13 +2,49 @@
 #
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
+from random import random
 
 from scrapy import signals
 
 # useful for handling different item types with a single interface
 from itemadapter import is_item, ItemAdapter
+from scrapy.http import HtmlResponse
+from selenium import webdriver
 
 
+class RandomHeaderMiddleWare:
+    def __init__(self):
+        self.user_agents = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+
+    def process_request(self, request, spider):
+        request.headers['User-Agent'] = self.user_agents
+        # 如果IP被限制, 可以在此下载中间件添加代理
+        option = webdriver.ChromeOptions()
+        option.add_argument('--headless')       # 无界面运行
+        option.add_argument('--disable-gpu')    # 禁止gpu加速
+        option.add_argument("no-sandbox")       # 取消沙盒模式
+        option.add_argument("disable-blink-features=AutomationControlled")  # 禁用启用Blink运行时的功能
+        option.add_experimental_option('excludeSwitches', ['enable-automation'])    # 开发者模式
+        driver = webdriver.Chrome(options=option)
+        # 移除 `window.navigator.webdriver`. scrapy 默认为True
+        driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
+            "source": """
+                Object.defineProperty(navigator, 'webdriver', {
+                  get: () => undefined
+                })
+              """
+        })
+        driver.get(request.url)
+        driver.implicitly_wait(5)
+        content = driver.page_source
+        driver.quit()
+        return HtmlResponse(request.url, encoding="utf-8", body=content, request=request)
+
+    def process_response(self, request, response, spider):
+        return response
+
+    def process_exception(self, request, exception, spider):
+        return None
 class SpiderSpiderMiddleware:
     # Not all methods need to be defined. If a method is not defined,
     # scrapy acts as if the spider middleware does not modify the
