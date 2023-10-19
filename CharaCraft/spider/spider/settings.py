@@ -17,9 +17,9 @@ NEWSPIDER_MODULE = "spider.spiders"
 # SELENIUM_DRIVER_NAME = 'chrome'
 # SELENIUM_DRIVER_EXECUTABLE_PATH = which('geckodriver')
 # SELENIUM_DRIVER_ARGUMENTS=['--headless']  # '--headless' if using chrome instead of firefox
-DOWNLOADER_MIDDLEWARES = {
-    'spider.middlewares.RandomHeaderMiddleWare': 545,
-}
+# DOWNLOADER_MIDDLEWARES = {
+#     'spider.middlewares.RandomHeaderMiddleWare': 545,
+# }
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = "spider (+http://www.yourdomain.com)"
 # DOWNLOAD_DELAY = 2

@@ -15,7 +15,7 @@ def main(start_url, max_depth, dynamic):
     output_file = safe_filename(os.path.basename(start_url).split("/")[-1]) + ".jsonl"
 
     settings = {
-        'DEPTH_LIMIT': str(max_depth),
+        'LIMIT_DEPTH': str(max_depth),
         'FEEDS': {
             output_file: {
                 'format': 'jsonlines',
