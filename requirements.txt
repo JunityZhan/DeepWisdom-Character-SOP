@@ -5,3 +5,4 @@ Scrapy==2.11.0
 torch==2.0.0+cu118
 transformers==4.31.0
 transformers_stream_generator==0.0.4
+selenium

@@ -12,7 +12,12 @@ def safe_filename(filename):
 
 
 def main(start_url, max_depth, dynamic):
-    output_file = safe_filename(os.path.basename(start_url).split("/")[-1]) + ".jsonl"
+    output_file_name = safe_filename(os.path.basename(start_url).split('/')[-1]) + '.jsonl'
+    current_dir = os.path.dirname(__file__)
+    parent_dir = os.path.dirname(current_dir)
+    parent_dir = os.path.dirname(parent_dir)
+    output_dir = os.path.join(parent_dir, 'data')
+    output_file = os.path.join(output_dir, output_file_name)
 
     settings = {
         'LIMIT_DEPTH': str(max_depth),
@@ -26,11 +31,11 @@ def main(start_url, max_depth, dynamic):
             }
         },
         'ITEM_PIPELINES': {
-            "spider.pipelines.GeneralPipeline": 100,
-            "spider.pipelines.ConfiguredPipeline": 300,
+            'spider.pipelines.GeneralPipeline': 100,
+            'spider.pipelines.ConfiguredPipeline': 300,
         },
-        'USER_AGENT': "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) "
-                      "Chrome/34.0.1847.131 Safari/537.36",
+        'USER_AGENT': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) '
+                      'Chrome/34.0.1847.131 Safari/537.36',
 
         'DOWNLOADER_MIDDLEWARES': {
             'spider.middlewares.RandomHeaderMiddleWare': 545,
@@ -42,7 +47,7 @@ def main(start_url, max_depth, dynamic):
     process.start()
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     start_url_arg = sys.argv[1]
     max_depth_arg = sys.argv[2]
     dynamic = bool(int(sys.argv[3]))
