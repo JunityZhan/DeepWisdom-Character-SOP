@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import torch
 from transformers import BertTokenizer, BertModel
 from scipy.spatial.distance import cosine
