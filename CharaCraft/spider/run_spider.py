@@ -25,7 +25,7 @@ def main():
     args = parse_arguments()
 
     for url, depth in zip(args.urls, args.depths):
-        subprocess.run(['python', 'spider_helper.py', url, str(depth), '1' if args.dynamic else '0'])
+        subprocess.run(['python', './spider/spider_helper.py', url, str(depth), '1' if args.dynamic else '0'])
 
 
 if __name__ == '__main__':
