@@ -51,7 +51,10 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
-./CharaCraft/spider/data/*
+/CharaCraft/spider/data/*
+/CharaCraft/prompt/*
+/CharaCraft/chromadb/*
+!/CharaCraft/prompt/default.txt
 # Translations
 *.mo
 *.pot
