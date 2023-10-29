@@ -25,14 +25,14 @@ def main(role_name, name):
         role_name=role_name
     )
 
-    def echo(message, history):
+    def respond(message, history):
         chatbot.dialogue_history = [tuple(dialogue) for dialogue in history]
         print(chatbot.dialogue_history)
         print(chatbot.llm.print_prompt())
         return chatbot.chat(text=message, role=name)
 
     with gr.Blocks() as demo:
-        gr.ChatInterface(fn=echo, examples=["Nice to meet you."], title="CharaCraft")
+        gr.ChatInterface(fn=respond, examples=["Nice to meet you."], title="CharaCraft")
     demo.launch(debug=True, share=True)
 
 
