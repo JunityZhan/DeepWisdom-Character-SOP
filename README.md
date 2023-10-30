@@ -1,14 +1,64 @@
+[中文](README_zh.md)
+
+
 # CharaCraft-AI
-This repo provides you a SOP (Standard Operating Procedure) to Create/Finetune your personalized role-play Large Language Models.
 
-# Quick Start
+This project aims to help users create or fine-tune their own role-playing large language models, providing a novel and interactive chat experience.
 
-# How To Create Your Own Large Language Models
-## Step1: Data Acquisition
-You can use any data collection method like python crawler or manually collect data. Note that you should label the paragraphs to get a better outcome. 
+## Quick Start Guide
 
-## Step2: Data Augmentation
-Usually, the data you acquired may not be enough for training a Large Language Model. Here we introduce 3 methods for data augmentation.
-## Step3: Model Training
+Follow these simple steps to quickly set up and run the CharaCraft-AI project.
 
-After data augmentation, you are able to craft your characters with open source LLM like LLaMA-2. Or you can skip this step, using the Data Augmentation AI as your characters.
+### 1. Obtain the Project Code
+
+Clone the project to your local environment:
+
+```bash
+git clone https://github.com/JunityZhan/CharaCraft-AI.git
+cd CharaCraft-AI
+```
+
+### 2. Prepare the Environment
+
+Switch to the project directory:
+
+```bash
+cd CharaCraft
+```
+
+### 3. Data Processing
+
+#### 3.1 Data Crawling
+
+Taking the Chinese data from the game "Genshin Impact" as an example, with the data sourced from [Demon God Quest](https://wiki.biligame.com/ys/魔神任务), execute the following command to crawl the data:
+
+```bash
+python spider/run_spider.py --urls https://wiki.biligame.com/ys/魔神任务  --depths 1
+```
+
+The crawled data will be saved in JSONL format and stored in the `/CharaCraft/data` directory.
+
+#### 3.2 Data Extraction
+
+Extract the dialogue data for a specific character (e.g., Paimon):
+
+```bash
+python extract/extract.py --name 派蒙 --dialogues
+```
+
+The extracted text will be saved in the `/CharaCraft/text` directory.
+
+### 4. Start the ChatBot
+
+Start a chat session with Paimon, interacting as the Traveler:
+
+```bash
+python animate/animate.py --role_name 派蒙 --name 旅行者
+```
+
+After starting, visit `localhost:6006` to chat with Paimon.
+
+---
+
+By following these steps, you should have successfully started the CharaCraft-AI project and be able to interact with the characters in the system. Enjoy your experience!
+```
