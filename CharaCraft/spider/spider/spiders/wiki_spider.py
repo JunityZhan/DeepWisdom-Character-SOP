@@ -42,8 +42,9 @@ class TextSpider(Spider):
         # Check the depth of the current page
         current_depth = response.meta.get('depth', 0)
         # Follow links to other pages if the depth is within the limit
+
         if current_depth < self.limit_depth:
-            for href in response.css('a::attr(href)').extract():
+            for href in response.css('a::attr(href)').extract():  # TODO： 允许用户自定义规则
                 next_page = response.urljoin(href)
                 if self.allowed_domains[0] in next_page:
                     yield scrapy.Request(next_page, callback=self.parse)
