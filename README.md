@@ -56,9 +56,8 @@ Start a chat session with Paimon, interacting as the Traveler:
 python animate/animate.py --role_name 派蒙 --name 旅行者
 ```
 
-After starting, visit `localhost:6006` to chat with Paimon.
+After starting, visit `localhost:7860` to chat with Paimon.
 
 ---
 
 By following these steps, you should have successfully started the CharaCraft-AI project and be able to interact with the characters in the system. Enjoy your experience!
-```

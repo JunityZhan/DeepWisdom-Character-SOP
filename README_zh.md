@@ -55,8 +55,15 @@ python extract/extract.py --name 派蒙 --dialogues
 python animate/animate.py --role_name 派蒙 --name 旅行者
 ```
 
-启动后，通过访问`localhost:6006`，您可以开始与派蒙进行聊天。
+启动后，通过访问`localhost:7860`，您可以开始与派蒙进行聊天。
 
+样例对话
+```
+旅行者: 派蒙是应急食品!
+
+
+派蒙：完全不对！怎么还不如吉祥物啊！我可是你的最好的伙伴，不是应急食品！
+```
 ---
 
 通过以上步骤，您应已成功启动CharaCraft-AI项目，并能与系统中的角色进行互动。希望您有一个愉快的体验！
