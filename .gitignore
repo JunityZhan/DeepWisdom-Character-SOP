@@ -53,6 +53,7 @@ coverage.xml
 cover/
 /CharaCraft/spider/data/*
 /CharaCraft/prompt/*
+/CharaCraft/notebook
 /CharaCraft/chromadb/*
 !/CharaCraft/prompt/default.txt
 # Translations

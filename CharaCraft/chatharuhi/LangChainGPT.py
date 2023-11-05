@@ -40,7 +40,7 @@ from .BaseLLM import BaseLLM
 
 class LangChainGPT(BaseLLM):
 
-    def __init__(self, model="gpt-3.5-turbo"):
+    def __init__(self, model="gpt-4"):
         super(LangChainGPT,self).__init__()
         self.chat = ChatOpenAI(model=model)
         self.messages = []

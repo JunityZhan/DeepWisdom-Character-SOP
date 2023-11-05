@@ -1,71 +1,90 @@
-import os
-import json
 import argparse
+import os
+import glob
+import json
 
 
-class DialogueParser:
-    def __init__(self, name, folder_path):
-        self.name = name
-        self.folder_path = folder_path
+def split_dialogue(line):
+    if "：" in line:
+        return line.split("：", 1)
+    elif ": " in line:
+        return line.split(": ", 1)
+    else:
+        return "", line
 
-    def parse_dialogues(self):
-        results = []
-        for filename in os.listdir(self.folder_path):
-            if filename.endswith('.txt'):
-                file_path = os.path.join(self.folder_path, filename)
-                with open(file_path, 'r', encoding='utf-8') as file:
-                    lines = file.readlines()
-                    dialogues, current_dialogue = [], []
-                    instruction, speaker = "", ""
 
-                    for line in lines:
-                        line = line.strip()
-                        if line:
-                            if "：" in line:
-                                speaker, content = line.split("：", 1)
-                                content = content.strip()
-                                if speaker == self.name:
-                                    if instruction:
-                                        current_dialogue.append((instruction, content))
-                                        instruction = ""
-                                    else:
-                                        current_dialogue.append(("", content))
-                                else:
-                                    instruction = content
-                            elif current_dialogue:
-                                _, last_content = current_dialogue[-1]
-                                current_dialogue[-1] = ("", last_content + " " + line)
+def process_text_file(file_path, name):
+    # 读取文本文件
+    with open(file_path, 'r', encoding='utf-8') as f:
+        text = f.read()
 
-                    if current_dialogue:
-                        dialogues.append(current_dialogue)
+    # 将文本分割成对话列表
+    dialogues = text.split('\n')
 
-                for dialogue in dialogues:
-                    result = {"instruction": "", "input": "", "output": "", "history": []}
-                    if len(dialogue) > 1:
-                        result["history"] = [[instruction, output] for instruction, output in dialogue[:-1]]
-                    if dialogue:
-                        result["instruction"], result["output"] = dialogue[-1]
-                    results.append(result)
+    # 解析对话并构建JSON结构
+    history = []
+    instruction = ""
+    output = ""
+    for i in range(len(dialogues) - 1):
+        speaker, content = split_dialogue(dialogues[i])
+        next_speaker, next_content = split_dialogue(dialogues[i + 1])
 
-        return results
+        # 如果下一个说话者是指定的角色，则保存当前的对话内容到history的提问中，并设置instruction
+        if next_speaker == name:
+            history.append([content, ""])
+            instruction = content
 
-    def save_to_json(self, results):
-        output_file = f"output_{self.name}.json"
-        with open(output_file, 'w', encoding='utf-8') as file:
-            json.dump(results, file, ensure_ascii=False, indent=4)
-            print(f"Results have been written to: {output_file}")
+        # 如果当前说话者是指定的角色，则保存其对话内容到history的回答中，并更新output
+        if speaker == name:
+            if history and history[-1][1] == "":
+                history[-1][1] = content
+            output = content
+
+    # 移除history中回答为空的项
+    history = [item for item in history if item[1] != ""]
+
+    # 如果output为空，尝试从history中找到一个非空回答
+    if output == "" and history:
+        output = history[-1][1]
+
+    # 构建JSON结构
+    json_output = {
+        "instruction": instruction,
+        "input": "",
+        "output": output,
+        "history": history[:-1] if history else []  # 移除最后一个对话，如果存在的话
+    }
+
+    return json_output
 
 
 def main():
-    parser = argparse.ArgumentParser(description='Parse dialogues from txt files to json.')
-    parser.add_argument('--name', required=True, help='The name to parse from dialogues')
+    parser = argparse.ArgumentParser(description='Process text files and generate JSON output.')
+    parser.add_argument('--name', type=str, required=True, help='The specified role name')
     args = parser.parse_args()
 
-    folder_path = os.path.join("./text", args.name)
-    dialogue_parser = DialogueParser(args.name, folder_path)
-    results = dialogue_parser.parse_dialogues()
-    dialogue_parser.save_to_json(results)
+    # 获取指定角色名
+    name = args.name
+
+    # 获取当前工作目录
+    cwd = os.getcwd()
+
+    # 查找所有txt文件
+    txt_files = glob.glob(os.path.join(cwd, 'text', name, '*.txt'))
+
+    # 处理每个文本文件并生成JSON输出
+    result = []
+    for txt_file in txt_files:
+        json_output = process_text_file(txt_file, name)
+        result.append(json_output)
+
+    # 将结果保存到JSON文件
+    output_file = os.path.join(cwd, 'text', name, 'result.json')
+    with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump(result, f, ensure_ascii=False, indent=2)
+
+    print(f'Results saved to {output_file}')
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

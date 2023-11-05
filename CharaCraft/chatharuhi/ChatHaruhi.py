@@ -14,18 +14,18 @@ class ChatHaruhi:
                  llm='openai', \
                  embedding='luotuo_openai', \
                  max_len_story=None, max_len_history=None,
-                 verbose=False):
+                 verbose=False, story_prefix_prompt="以下是你曾经说过的话：\n", first_response=None):
         super(ChatHaruhi, self).__init__()
         self.verbose = verbose
         self.role_name = role_name
         # constants
-        self.story_prefix_prompt = "The following dialogues are what you have said before:\n"
+        self.story_prefix_prompt = story_prefix_prompt
         self.k_search = 19
         self.narrator = ['旁白', '', 'scene', 'Scene', 'narrator', 'Narrator']
         self.dialogue_divide_token = '\n###\n'
         self.dialogue_bra_token = '「'
         self.dialogue_ket_token = '」'
-
+        self.first_response = first_response
         if system_prompt:
             self.system_prompt = self.check_system_prompt(system_prompt)
 
@@ -273,8 +273,12 @@ class ChatHaruhi:
             else:
                 sum_story_token += story_token
                 story_string += story + self.dialogue_divide_token
-        story_string += f'Now, our conversation will begin, I will start first, and you should response as {self.role_name}\n'
+        story_string += f'如果你明白了，请跟我打招呼'
         self.llm.user_message(story_string)
+        if self.first_response:
+            self.llm.ai_message(self.first_response)
+        else:
+            self.llm.ai_message('你好，我是' + self.role_name)
 
     def add_history(self):
 
