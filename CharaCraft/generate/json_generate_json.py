@@ -11,7 +11,7 @@ sys.path.append(parent_dir)
 
 from chatharuhi import ChatHaruhi
 
-def main(prompt, role_name, name, file):
+def main(prompt, role_name, name, file, first_response=None):
     db_folder = os.path.join('text', role_name)
     prompt_path = os.path.join('prompt', prompt+'.txt')
     json_path = os.path.join('text', file+'.json')
@@ -60,5 +60,6 @@ if __name__ == "__main__":
     parser.add_argument('--role_name', type=str, help='Name of the role')
     parser.add_argument('--name', type=str, help='Name of you')
     parser.add_argument('--file', type=str, help='Name of file')
+    parser.add_argument('--first_response', type=str, help='first response of the chatbot')
     args = parser.parse_args()
-    main(args.prompt, args.role_name, args.name, args.file)
+    main(args.prompt, args.role_name, args.name, args.file, first_response=args.first_response)
