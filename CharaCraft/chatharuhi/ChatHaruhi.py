@@ -227,7 +227,8 @@ class ChatHaruhi:
     def chat(self, text, role):
         # add system prompt
         self.llm.initialize_message()
-        self.llm.system_message(self.system_prompt)
+        system_prompt = self.system_prompt.replace('{role_name}', self.role_name).replace('character', role)
+        self.llm.system_message(system_prompt)
 
         # add story
         query = self.get_query_string(text, role)

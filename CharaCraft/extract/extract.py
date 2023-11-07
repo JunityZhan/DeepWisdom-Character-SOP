@@ -86,10 +86,12 @@ def find_and_save_dialogues(text, name, num_context, colon, dialogues):
 
 def main():
     args = parse_arguments()
+
     name = args.name
     num_context = args.num_context
     file_path = './data/'
-    result_folder = f'./text/{name}/'
+    folder_name = name.replace('"', '')
+    result_folder = f'./text/{folder_name}/'
     os.makedirs(result_folder, exist_ok=True)
 
     colon = determine_colon(name)

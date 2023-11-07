@@ -22,8 +22,9 @@ def main(prompt, role_name, name, file, first_response=None):
         system_prompt=system_prompt,
         llm='openai',
         story_text_folder=db_folder,
-        max_len_story=4000,
-        role_name=role_name
+        max_len_story=2000,
+        role_name=role_name,
+        first_response=first_response
     )
     # load json file, iterate the list, each element is a dict, and key is text.
     with open(json_path, 'r', encoding='utf8') as f:
@@ -44,6 +45,7 @@ def main(prompt, role_name, name, file, first_response=None):
             "output": chatbot.chat(text=json_dict['text'], role=name),
             "history": []
         })
+        chatbot.dialogue_history = []
         # 先写入txt备份
         with open('text/backup.txt', 'a', encoding='utf8') as f:
             f.write(new_json[-1]['output']+'\n')

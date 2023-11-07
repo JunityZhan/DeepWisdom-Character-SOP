@@ -38,10 +38,11 @@ from langchain.schema import (
 )
 from .BaseLLM import BaseLLM
 
+
 class LangChainGPT(BaseLLM):
 
     def __init__(self, model="gpt-4"):
-        super(LangChainGPT,self).__init__()
+        super(LangChainGPT, self).__init__()
         self.chat = ChatOpenAI(model=model)
         self.messages = []
 
@@ -49,18 +50,18 @@ class LangChainGPT(BaseLLM):
         self.messages = []
 
     def ai_message(self, payload):
-        self.messages.append(AIMessage(content = payload))
+        self.messages.append(AIMessage(content=payload))
 
     def system_message(self, payload):
-        self.messages.append(SystemMessage(content = payload))
+        self.messages.append(SystemMessage(content=payload))
 
     def user_message(self, payload):
-        self.messages.append(HumanMessage(content = payload))
+        self.messages.append(HumanMessage(content=payload))
 
     def get_response(self):
         response = self.chat(self.messages)
         return response.content
-    
+
     def print_prompt(self):
         for message in self.messages:
             print(message)

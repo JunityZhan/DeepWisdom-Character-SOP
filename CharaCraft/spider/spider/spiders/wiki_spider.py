@@ -31,7 +31,7 @@ class TextSpider(Spider):
         all_text = response.xpath(
             '(//div)/descendant-or-self::text()[not(ancestor::script) and not(ancestor-or-self::*[contains(@style, '
             '"display: none")])]').extract()
-        all_text_str = ''.join(all_text).strip()
+        all_text_str = '\n'.join(all_text).strip()
 
         # Populate and yield the item
         item = SpiderItem()
