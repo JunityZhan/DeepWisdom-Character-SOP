@@ -1,0 +1,5 @@
+[stopmusic(fadetime=1)]
+[CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="斯卡蒂"]你们吃的到底是什么？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=2)]
+[name="安妮塔"]哎呀，你抓得我好疼啊......你力气可太大啦！

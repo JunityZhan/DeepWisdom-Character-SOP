@@ -1,0 +1,5 @@
+[name="安妮塔"]我明白你在躲着我们。我想，你要走的话，你大概也会来这里。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]也？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#4",focus=2)]
+[name="安妮塔"]我经常偷偷来这里。当然，瞒着铁皮他们。他们发现我总跑这么远，会不高兴。

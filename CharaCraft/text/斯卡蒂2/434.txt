@@ -1,0 +1,5 @@
+[name="安妮塔"]幸亏审判官来了，她叫我们都离开房子，还不许我们靠近海岸和山上的教堂。
+[character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]她帮了你们。
+[character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#3",focus=2)]
+[name="安妮塔"]是呀。她可好了，一直守着我们。

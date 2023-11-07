@@ -1,0 +1,6 @@
+[subtitle]
+[delay(time=0.7)]
+[name="斯卡蒂"]盐风城。
+[name="斯卡蒂"]......这重逢也太不感人了。
+[dialog]
+[PlaySound(key="$rungeneral")]

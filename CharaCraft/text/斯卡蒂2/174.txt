@@ -1,0 +1,6 @@
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[delay(time=1)]
+[name="斯卡蒂"]......况且，我现在是歌手。
+[name="斯卡蒂"]歌手不这样做事。何塞先生说的。
+[dialog]
+[character]

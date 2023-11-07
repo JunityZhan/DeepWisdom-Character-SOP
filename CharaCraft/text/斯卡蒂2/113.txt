@@ -1,0 +1,9 @@
+[delay(time=2)]
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]......队长呢？
+[Character(name="avg_1023_ghost2_1#1$1")]
+[name="幽灵鲨"]被甩进海里了，那一下伤得挺重的。
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]......
+[Character(name="avg_474_gladiia_1#5")]
+[name="歌蕾蒂娅"]连他们的神都没能把乌尔比安消化掉，他还死不了。

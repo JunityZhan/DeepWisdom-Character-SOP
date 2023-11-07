@@ -1,0 +1,5 @@
+[Character(name="char_263_skadi#8")]
+[CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="斯卡蒂"]——！捂上耳朵！艾丽妮！
+[Character(name="avg_4009_irene_1#2$1")]
+[name="审判官艾丽妮"]欸，啊！

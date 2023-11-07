@@ -1,0 +1,9 @@
+[name="老何塞"]这衣服也换上。
+[character(name="char_263_skadi#3")]
+[name="斯卡蒂"]......这是什么衣服？样子很怪。
+[character(name="avg_npc_181")]
+[name="老何塞"]♯♯不习惯不关键，伊比利亚人习惯。
+[character(name="char_263_skadi#3")]
+[name="斯卡蒂"]......
+[character(name="avg_npc_181")]
+[name="老何塞"]现在开始，你就是流浪歌手斯卡蒂了。

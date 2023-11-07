@@ -1,0 +1,5 @@
+[name="幽灵鲨"]你听见什么了吗？斯卡蒂？
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]什么......没什么啊。
+[Character(name="avg_1023_ghost2_1#11$1")]
+[name="幽灵鲨"]好吧。

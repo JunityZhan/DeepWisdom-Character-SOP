@@ -1,0 +1,5 @@
+[name="男性居民B"]......
+[character(name="avg_npc_187",name2="avg_1012_skadiSP_1#1",focus=2)]
+[name="斯卡蒂"]你盯着我，是还想动手吗？只有你一个人的话，结束得很快。
+[character(name="avg_npc_187",name2="avg_1012_skadiSP_1#1",focus=1)]
+[name="男性居民B"]不......没有。

@@ -1,0 +1,5 @@
+[CameraShake(duration=0.5, xstrength=20, ystrength=20, vibrato=30, randomness=90, fadeout=true, block=false)]
+[delay(time=1)]
+[name="斯卡蒂"]话太多了！垃圾！
+[Dialog]
+[Character(name="avg_npc_455_1#1$1")]

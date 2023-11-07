@@ -1,0 +1,5 @@
+[name="老何塞"]给，你也喝一点。
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=1)]
+[name="斯卡蒂"]（仰头喝下）
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=2)]
+[name="老何塞"]停——别一口灌太多，给我留一点儿。我晚上睡不着还要靠这个呢。

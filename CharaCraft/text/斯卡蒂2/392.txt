@@ -1,0 +1,5 @@
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[delay(time=1)]
+[name="斯卡蒂"]我和你......不......
+[Character(name="avg_npc_186")]
+[name="海嗣"]你时常感觉，周围活物，与你陌生。

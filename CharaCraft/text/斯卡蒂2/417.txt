@@ -1,0 +1,5 @@
+[name="幽灵鲨"]呃，头又有点晕了。我是怎么过来的？简直就像一直在做梦。
+[character(name="avg_1012_skadiSP_1#8")]
+[name="斯卡蒂"]鲨鱼？
+[character(name="char_143_ghost#2")]
+[name="幽灵鲨"]毕竟......没法一直醒着。

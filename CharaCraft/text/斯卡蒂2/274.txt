@@ -1,0 +1,5 @@
+[name="安妮塔"]歌手，你可别顶撞她，把门打开吧。
+[character(name="avg_1012_skadiSP_1#4",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]为什么？
+[character(name="avg_1012_skadiSP_1#4",name2="avg_npc_180#4",focus=2)]
+[name="安妮塔"]......

@@ -1,0 +1,5 @@
+[name="罗德岛干员"]......你多写两句话也不会有什么问题吧？！
+[character(name="char_016_medic",name2="char_263_skadi#3",focus=2)]
+[name="斯卡蒂"]嗯？
+[character(name="char_016_medic")]
+[name="罗德岛干员"]（怎么办......比想象的还难对付？）

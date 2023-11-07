@@ -1,0 +1,6 @@
+[name="男性居民A"]她一定不是。
+[Character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]......你们听不懂我的话。
+[name="斯卡蒂"]我去问别人。
+[character(name="avg_npc_187",name2="avg_npc_178",focus=2)]
+[characteraction(name="right", type="move",xpos=100, fadetime=0.8, block=false)]

@@ -1,0 +1,9 @@
+[delay(time=1)]
+[Character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]嗯？还有一个。
+[Character(name="avg_npc_180#2")]
+[name="女性居民"]别，别动手......我和他们不大一样。我知道你是好的。
+[Character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]你能明白我的意思。
+[Character(name="avg_npc_180#2")]
+[name="女性居民"]你只是跟着长凳来这里。

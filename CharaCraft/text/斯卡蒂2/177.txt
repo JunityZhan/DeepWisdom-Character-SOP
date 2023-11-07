@@ -1,0 +1,10 @@
+[Character(name="avg_1012_skadiSP_1#7",fadetime=1)]
+[delay(time=2)]
+[name="斯卡蒂"]你跑不掉。
+[character]
+[name="幼年居民"]呜......呜呜......
+[Character(name="avg_1012_skadiSP_1#7")]
+[name="斯卡蒂"]为什么偷我东西？为了把我带到这里？
+[name="斯卡蒂"]嗯？
+[dialog]
+[musicvolume(volume=0,fadetime=0.5)]

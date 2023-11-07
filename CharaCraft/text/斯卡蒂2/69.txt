@@ -1,0 +1,9 @@
+[playMusic(intro="$nervous_intro", key="$nervous_loop",fadetime=3, volume=0.8)]
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]我是斯卡蒂，不是伊莎玛拉。
+[Character(name="avg_npc_446_1#1$1")]
+[name="船长阿方索"]那伊莎玛拉这个发音意味着什么？
+[Character(name="char_263_skadi#9")]
+[name="斯卡蒂"]我......
+斯卡蒂知道，斯卡蒂不敢回答。
+歌蕾蒂娅告诉过她没事，她愿意相信。

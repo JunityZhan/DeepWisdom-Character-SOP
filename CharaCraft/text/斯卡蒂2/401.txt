@@ -1,0 +1,6 @@
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[delay(time=1)]
+[name="斯卡蒂"]祂——
+[name="斯卡蒂"]祂说——
+[dialog]
+[stopmusic(fadetime=1)]

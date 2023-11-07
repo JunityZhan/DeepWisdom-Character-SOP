@@ -1,0 +1,15 @@
+[name="审判官"]我马上出去，能杀多少是多少，应该能挡上一阵，你们要跑快一点......
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]......
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#2",focus=1)]
+[name="斯卡蒂"]你，带着她躲到里面去。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#4",focus=2)]
+[name="审判官"]啊？你在说什么啊！你没看见吗？我对付不了——这么多！很快它们都会进来。屋里和屋外没有区别！
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#4",focus=1)]
+[name="斯卡蒂"]记住，离门窗越远越好。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#4",focus=2)]
+[name="审判官"]你这人根本不听别人讲话——
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]我会出去。把它们引开。
+[character(name="avg_npc_182#5",name2="avg_npc_180#2",focus=1)]
+[name="审判官"]什么？！

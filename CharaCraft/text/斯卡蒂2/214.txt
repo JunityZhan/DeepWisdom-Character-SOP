@@ -1,0 +1,5 @@
+[name="女性居民"]我还没听过别人唱歌呢。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]或许。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=2)]
+[name="女性居民"]太好啦！

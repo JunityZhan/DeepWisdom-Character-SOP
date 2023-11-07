@@ -1,0 +1,5 @@
+[name="歌蕾蒂娅"]斯卡蒂，鲨鱼。
+[Character(name="avg_1023_ghost2_1#4$1",name2="char_263_skadi#4",focus=2)]
+[name="斯卡蒂"]看得见的敌人，我们都消灭了。
+[Character(name="avg_1023_ghost2_1#4$1",name2="char_263_skadi#4",focus=1)]
+[name="幽灵鲨"]......无形的浪花在这里延伸，就像沙滩上的潮汐。

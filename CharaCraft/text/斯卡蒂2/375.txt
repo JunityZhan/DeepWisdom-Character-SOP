@@ -1,0 +1,5 @@
+[name="主教"]我们到了。
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]我们难道在......
+[character(name="avg_npc_184")]
+[name="主教"]没错，在海底。

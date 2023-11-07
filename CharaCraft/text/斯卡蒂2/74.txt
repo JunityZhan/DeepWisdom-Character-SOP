@@ -1,0 +1,5 @@
+[name="幽灵鲨"]花点时间，队长会找到解决办法......唔。
+[Character(name="char_263_skadi#6")]
+[name="斯卡蒂"]幽灵鲨！你还好吗？
+[Character(name="avg_1023_ghost2_1#11$1")]
+[name="幽灵鲨"]有点......头晕。

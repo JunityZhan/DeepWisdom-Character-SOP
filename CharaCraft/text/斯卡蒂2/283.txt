@@ -1,0 +1,5 @@
+[dialog]
+[character(name="avg_1012_skadiSP_1#7",enter="left",name2="avg_npc_180#2",fadetime=1,block=true)]
+[name="斯卡蒂"]趴下。别出来。
+[dialog]
+[characteraction(name="left", type="move", xpos=300, fadetime=0.1, block=false)]

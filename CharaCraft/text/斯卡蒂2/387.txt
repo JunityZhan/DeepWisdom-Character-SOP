@@ -1,0 +1,5 @@
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[delay(time=1)]
+[name="斯卡蒂"]你们杀害我们阿戈尔人......现在又想来和我沾亲带故？！
+[Character(name="avg_npc_186")]
+[name="海嗣"]我的血与你的血相同。

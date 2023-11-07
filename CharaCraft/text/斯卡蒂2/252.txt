@@ -1,0 +1,5 @@
+[name="安妮塔"]你是不是晚上还想出去？比如说，爬上山，进教堂看看？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#4",focus=1)]
+[name="斯卡蒂"]这和你没关系。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#1",focus=2)]
+[name="安妮塔"]是啊，是和我没关系。我只是好奇。

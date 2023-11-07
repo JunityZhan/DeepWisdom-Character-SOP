@@ -1,0 +1,9 @@
+[name="老何塞"]停！急急忙忙的，赶着去送死？！
+[character(name="char_263_skadi#5")]
+[name="斯卡蒂"]嗯？
+[character(name="avg_npc_181")]
+[name="老何塞"]......嘿。你是不是没怎么听人和你这么说话？
+[character(name="char_263_skadi#3")]
+[name="斯卡蒂"]是。
+[character(name="avg_npc_181")]
+[name="老何塞"]那你就需要有人这么和你说说。

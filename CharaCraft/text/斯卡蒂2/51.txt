@@ -1,0 +1,5 @@
+[name="审判官艾丽妮"]恐鱼！
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]这里果然被这些怪物当作巢穴了......
+[dialog]
+[Character(name="avg_1023_ghost2_1#2$1")]

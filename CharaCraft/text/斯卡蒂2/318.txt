@@ -1,0 +1,14 @@
+[name="安妮塔"]歌手，我还以为你想杀了我。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]......
+[name="斯卡蒂"]我是可以杀死你。很简单。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=2)]
+[name="安妮塔"]但你不想杀我呀。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]你知道？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=2)]
+[name="安妮塔"]我知道。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]可是，我不知道。
+[dialog]
+[playsound(key="$rungeneral")]

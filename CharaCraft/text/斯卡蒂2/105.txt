@@ -1,0 +1,9 @@
+[name="幽灵鲨"]......
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]上面写着什么？
+[Character(name="avg_1023_ghost2_1#5$1")]
+[name="幽灵鲨"]布雷奥甘在陆地上的见闻，像是篇游记吧。
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]二队长就是在找这种东西？
+[Character(name="avg_1023_ghost2_1#10$1")]
+[name="幽灵鲨"]我不知道。你为什么不问问她本人呢？

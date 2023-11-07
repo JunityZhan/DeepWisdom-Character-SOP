@@ -1,0 +1,5 @@
+[delay(time=1)]
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]我......
+[dialog]
+[stopmusic(fadetime=1)]

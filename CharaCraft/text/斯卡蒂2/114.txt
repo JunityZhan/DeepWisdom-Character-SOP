@@ -1,0 +1,9 @@
+[name="幽灵鲨"]我很少听见剑鱼谨慎地对待敌人而不是轻蔑它们的，斯卡蒂，是我的记忆没有完全恢复吗？
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]不，确实很少见。同样，这样的海嗣过去也不多见。哪只猎物能同时经受三个猎人的围攻还安然无恙？
+[Character(name="avg_1023_ghost2_1#1$1")]
+[name="幽灵鲨"]我可还没动真格的呢。
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]但这样打下去对这艘船来说太勉强了，它的力量比之前强很多。
+[dialog]
+[character(name="char_empty")]

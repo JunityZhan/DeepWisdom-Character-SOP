@@ -1,0 +1,5 @@
+[name="主教"]（神经相互叠合挤压出的声响）
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]......你们怎么都这么急吼吼的？
+[dialog]
+[character]

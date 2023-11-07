@@ -1,0 +1,6 @@
+[name="男性居民B"]这个，还给你。
+[character(name="avg_npc_187",name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]嗯？
+[name="斯卡蒂"]这是我的琴。
+[character(name="avg_npc_187",name2="avg_1012_skadiSP_1#4",focus=1)]
+[name="男性居民B"]是铁皮捡到的。

@@ -1,0 +1,9 @@
+[name="审判官"]你以前......是猎人么？你的眼神看起来很像。
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]你觉得是就是。
+[character(name="avg_npc_182#2")]
+[name="审判官"]你狩猎的对象是这些......恐鱼么？
+[character(name="avg_1012_skadiSP_1#7")]
+[name="斯卡蒂"]它们需要被清除。
+[character(name="avg_npc_182#2")]
+[name="审判官"]呼......还是这讨人厌的口气。不知道为什么，说这话的人是你的话，我竟然觉得不是大话。

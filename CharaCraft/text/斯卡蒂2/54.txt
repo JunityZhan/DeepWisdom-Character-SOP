@@ -1,0 +1,11 @@
+[name="幽灵鲨"]......镜子被打碎了。
+[Character(name="char_263_skadi#4")]
+[name="斯卡蒂"]这里是怎么回事？伊比利亚人的水上运输工具需要一座宫殿吗？
+[Character(name="char_263_skadi#4")]
+[name="斯卡蒂"]和罗德岛差别真大。
+[Character(name="avg_1023_ghost2_1#4$1")]
+[name="幽灵鲨"]......
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]这面镜子有什么特别的吗？
+[Character(name="avg_1023_ghost2_1#4$1")]
+[name="幽灵鲨"]我看见了。

@@ -1,0 +1,5 @@
+[name="Aya"]回阿戈尔啊......你们三个，一起？
+[Character(name="char_263_skadi#4",name2="avg_474_gladiia_1#5",focus=1)]
+[name="斯卡蒂"]我们不会轻易分开。
+[Character(name="npc_2001_Aya_1")]
+[name="Aya"]喔，感情真好。那后面那位呢？难道是害羞了吗，干嘛一言不发？

@@ -1,0 +1,5 @@
+[PlayMusic(intro="$plot_intro", key="$plot_loop", volume=0.4,fadetime=2)]
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]是恐鱼的气息，越来越多，小镇遭到了袭击。
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]

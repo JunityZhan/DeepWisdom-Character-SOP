@@ -1,0 +1,5 @@
+[name="安妮塔"]只是......你看上去更累了，比昨天晚上还要累。你受伤了吗？
+[character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]我......没事。只是脑子有点晕。
+[character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#2",focus=2)]
+[name="安妮塔"]那就好，你不在这里，我还担心你会有问题。

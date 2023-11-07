@@ -1,0 +1,9 @@
+[name="安妮塔"]我知道你心里只想找人，找你的那个同伴。
+[character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]......我需要确认一些事。
+[character(name="avg_npc_180#3")]
+[name="安妮塔"]你是不是有很多年都在找她？
+[character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]嗯？
+[character(name="avg_npc_180#3")]
+[name="安妮塔"]你给我的感觉是这样。一提到找她，你的眼神就变了。这是走过很多路的人的眼神。佩特拉奶奶有时候就会露出这个眼神。

@@ -1,0 +1,5 @@
+[character(name="avg_1012_skadiSP_1#1",fadetime=1)]
+[delay(time=2)]
+[name="斯卡蒂"]......找到了。
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]

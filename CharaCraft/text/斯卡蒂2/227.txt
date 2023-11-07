@@ -1,0 +1,9 @@
+[name="安妮塔"]那年头没人敢惹佩特拉奶奶......她把吃的分给我。你别看她现在身体不好，她是这城里顶顶厉害的人哩。
+[Character(name="avg_npc_180#1", name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]哦？
+[Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=1)]
+[name="安妮塔"]就连铁皮都怕她。
+[Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]哦。
+[Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=1)]
+[name="安妮塔"]现在好多啦。那个教士教会了我们如何活下去。你看长凳，还有那边几个孩子。我想我们这里也能渐渐变得热闹起来。

@@ -1,0 +1,14 @@
+[name="歌蕾蒂娅"]否则，你就只是在给敌人机会。
+[character(name="avg_474_gladiia_1#5",name2="avg_1012_skadiSP_1#1",focus=2)]
+[name="斯卡蒂"]我的目标不是你。
+[character(name="avg_474_gladiia_1#1",name2="avg_1012_skadiSP_1#1",focus=1)]
+[name="歌蕾蒂娅"]那你来这里，是想做什么？
+[character(name="avg_474_gladiia_1#1",name2="avg_1012_skadiSP_1#1",focus=2)]
+[name="斯卡蒂"]你明明知道。
+[character(name="avg_474_gladiia_1#1",name2="avg_1012_skadiSP_1#1",focus=1)]
+[name="歌蕾蒂娅"]你一直想找她。找到她，你的疑问就能消失吗？
+[character(name="avg_474_gladiia_1#1",name2="avg_1012_skadiSP_1#1",focus=2)]
+[name="斯卡蒂"]......
+[name="斯卡蒂"]她的记忆坏了。她并不能告诉我什么。
+[character(name="avg_474_gladiia_1#5",name2="avg_1012_skadiSP_1#1",focus=1)]
+[name="歌蕾蒂娅"]瞧瞧你的模样。也就比困在笼子里的好上那么一点。

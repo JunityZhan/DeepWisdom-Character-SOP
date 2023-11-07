@@ -1,0 +1,9 @@
+[name="幽灵鲨？"]......
+[Character(name="char_263_skadi#7",name2="avg_474_gladiia_1",focus=1)]
+[name="斯卡蒂"]她短暂地清醒过......可我又眼睁睁看着她......
+[Character(name="char_263_skadi#7",name2="avg_474_gladiia_1",focus=2)]
+[name="歌蕾蒂娅"]别这么感性。我们不是她，如果连她自己都不讨厌自己的那副模样，就轮不到我们置喙。
+[Character(name="char_263_skadi#9",name2="avg_474_gladiia_1",focus=1)]
+[name="斯卡蒂"]你比我想的还要相信凯尔希医生。
+[Character(name="char_263_skadi#9",name2="avg_474_gladiia_1",focus=2)]
+[name="歌蕾蒂娅"]也许吧。她愿意孤身留在伊比利亚，为我们创造机会，我很惊讶......也不得不感激。

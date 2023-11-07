@@ -1,0 +1,5 @@
+[name="赏金猎人A"]管她斯卡蒂活卡蒂的，咱搁这儿弄死，之后不怕人抢金子！加上其他人悬赏她脑袋的钱，下半辈子根本不用愁！
+[character(name="char_263_skadi#8")]
+[name="斯卡蒂"]给你们个机会。现在跑还来得及，我没时间和你们折腾。
+[Character(name="avg_npc_008", name2="avg_npc_008",focus=1)]
+[CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]

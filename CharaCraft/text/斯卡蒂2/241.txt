@@ -1,0 +1,5 @@
+[name="安妮塔"]要到那个时候......
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]什么时候？
+[dialog]
+[character]

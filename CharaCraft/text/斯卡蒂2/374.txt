@@ -1,0 +1,5 @@
+[name="主教"]想见你的是我的一位朋友。应他要求，我才邀请你来到这里。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_184",focus=1)]
+[name="斯卡蒂"]谁？他想见我？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_184",focus=2)]
+[name="主教"]随我来吧。见到他你就知道了。

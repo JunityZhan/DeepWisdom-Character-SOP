@@ -1,0 +1,5 @@
+[Character(name="avg_1012_skadiSP_1#4",fadetime=0.5)]
+[delay(time=1)]
+[name="斯卡蒂"]你那根棍子对我没用。
+[character(name="avg_npc_182#5")]
+[name="审判官"]棍......子？！

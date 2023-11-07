@@ -1,0 +1,5 @@
+[name="女性居民"]不过我们一般不会在这个时候去教堂的。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#1",focus=1)]
+[name="斯卡蒂"]我有办法进去。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#1",focus=2)]
+[name="女性居民"]你可以进去，我们都可以。教堂的大门始终都为笃信之人打开，那个教士是这么说的。可是......你是想去找人吧？

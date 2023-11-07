@@ -1,0 +1,5 @@
+[name="老何塞"]真*伊比利亚粗口*憋屈。
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=1)]
+[name="斯卡蒂"]......对不起。
+[dialog]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]

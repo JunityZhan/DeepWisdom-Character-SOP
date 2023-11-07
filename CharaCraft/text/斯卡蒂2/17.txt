@@ -1,0 +1,12 @@
+[name="幽灵鲨"]......
+[Character(name="avg_1023_ghost2_1#3$1",name2="char_263_skadi#3",focus=2)]
+[name="斯卡蒂"]......那个人是谁？
+[Character(name="avg_1023_ghost2_1#4$1",name2="char_263_skadi#3",focus=1)]
+[name="幽灵鲨"]不认识......她......她似乎认识我。
+[Character(name="avg_1023_ghost2_1#4$1",name2="char_263_skadi#3",focus=2)]
+[name="斯卡蒂"]......嗅不到她的气味，起码她不是昆图斯那样的海嗣。
+[name="斯卡蒂"]没空管她了。
+[StopMusic(fadetime=2)]
+[name="斯卡蒂"]把恐鱼处理干净，我们去和二队长会合。
+[Dialog]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]

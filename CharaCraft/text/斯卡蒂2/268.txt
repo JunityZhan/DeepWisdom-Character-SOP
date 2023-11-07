@@ -1,0 +1,8 @@
+[name="老何塞"]停下，你捏碎几个酒瓶了？
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=1)]
+[name="斯卡蒂"]......
+[name="斯卡蒂"]斩杀猎物。解决敌人。我天生就是干这个的。
+[name="斯卡蒂"]他们都死了，而我活了下来。我活下来是为了什么？为什么这些灾难总会找上门，但又杀不掉我......总是杀掉我身边的人？
+[name="斯卡蒂"]胡安是个好人。
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=2)]
+[CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]

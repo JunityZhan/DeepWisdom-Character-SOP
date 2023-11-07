@@ -1,0 +1,5 @@
+[name="安妮塔"]你不是伊比利亚人。
+[character(name="avg_1012_skadiSP_1#4",name2="avg_npc_180#4",focus=1)]
+[name="斯卡蒂"]你随便说。
+[character(name="avg_1012_skadiSP_1#4",name2="avg_npc_180#4",focus=2)]
+[name="安妮塔"]那是审判官。审判官......

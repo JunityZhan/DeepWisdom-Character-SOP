@@ -1,0 +1,5 @@
+[character]
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]什么......
+[Character(name="avg_4009_irene_1#2$1")]
+[name="审判官艾丽妮"]（竟然全都避开了？！）

@@ -1,0 +1,5 @@
+[name="歌蕾蒂娅"]可它怎么会躲进船舱里？这里可是海的中央。
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]怎么办？
+[Character(name="avg_474_gladiia_1#5")]
+[name="歌蕾蒂娅"]......

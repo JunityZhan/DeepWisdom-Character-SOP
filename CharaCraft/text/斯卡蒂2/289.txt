@@ -1,0 +1,9 @@
+[name="安妮塔"]歌手，你在这里做什么？你的吸气声音变得不大一样。
+[character(name="avg_1012_skadiSP_1#2")]
+[name="斯卡蒂"]你们有危险。
+[character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#2",focus=1)]
+[name="安妮塔"]你说什么......呃，你怎么，你受了伤？
+[character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#2",focus=2)]
+[name="斯卡蒂"]我流血了。快走！
+[dialog]
+[character]

@@ -1,0 +1,14 @@
+[Delay(time=1.5)]
+[Character(name="char_263_skadi#3",name2="avg_474_gladiia_1",focus=1)]
+[name="斯卡蒂"]......歌蕾蒂娅。
+[Character(name="char_263_skadi#3",name2="avg_474_gladiia_1#4",focus=2)]
+[name="歌蕾蒂娅"]短暂的相处让你变换了措辞。这一点上，你确实与以往大不相同。
+[Character(name="char_263_skadi#4",name2="avg_474_gladiia_1#4",focus=1)]
+[name="斯卡蒂"]......二队长，我有问题。
+[Character(name="char_263_skadi#4",name2="avg_474_gladiia_1#1",focus=2)]
+[name="歌蕾蒂娅"]从那个腐臭的海岸离开以来，我们已经共享了所有的情报。
+[Character(name="char_263_skadi#7",name2="avg_474_gladiia_1#1",focus=1)]
+[name="斯卡蒂"]还不是全部。
+[name="斯卡蒂"]我们去就足够了，我不明白，为什么要带上......
+[Character(name="char_263_skadi#7",name2="avg_474_gladiia_1#5",focus=2)]
+[name="歌蕾蒂娅"]看看她如今的样子。这本该是她曾经的模样。

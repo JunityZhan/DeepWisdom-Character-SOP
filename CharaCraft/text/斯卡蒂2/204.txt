@@ -1,0 +1,5 @@
+[name="女性居民"]每次他都会讲好多......我大部分听不大懂，除了上面那句话，就只记得要把大家都当成兄弟，要对大家都好一点。反正都是好话吧？
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]教士？
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=2)]
+[name="女性居民"]是呀。他和你一样，也是从外面来的。不过这是很多年前的事了。

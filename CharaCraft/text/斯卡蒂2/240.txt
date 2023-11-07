@@ -1,0 +1,9 @@
+[PlayMusic(intro="$jealous_intro", key="$jealous_loop", volume=0.4)]
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]你们吃的到底是什么......
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=2)]
+[name="安妮塔"]是、是岸上捡的呀！
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]这里的海没有食物。没有任何收获。这片海已经安静下来了。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=2)]
+[name="安妮塔"]我说过了呀，你今天去，岸上当然不会有吃的。

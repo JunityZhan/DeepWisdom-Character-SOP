@@ -1,0 +1,9 @@
+[delay(time=1)]
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_184",focus=1)]
+[name="斯卡蒂"]不认识。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_184",focus=2)]
+[name="主教"]哦......？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_184",focus=1)]
+[name="斯卡蒂"]因为我不知道这个人是不是我当初认识的那个了。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_184",focus=2)]
+[name="主教"]哦，哦......

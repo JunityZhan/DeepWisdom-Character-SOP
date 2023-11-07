@@ -1,0 +1,13 @@
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0.5, block=true)]
+[delay(time=1)]
+[name="斯卡蒂"]敌人的目标是我。靠近我的，都没有好下场。
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=2)]
+[name="老何塞"]瞧你这话说的，咒我是不？
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=1)]
+[name="斯卡蒂"]你最好也离我远些。
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=2)]
+[name="老何塞"]行啊，你不说我也有这打算。
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=1)]
+[name="斯卡蒂"]......
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=2)]
+[name="老何塞"]得了，不是说老子就信了你*米诺斯粗口*的邪。干这行就是刀尖舔血，臭小子不听老子的劝，死了，还是死在不知什么鬼玩意的手里，连你都没办法，我又能怎样？

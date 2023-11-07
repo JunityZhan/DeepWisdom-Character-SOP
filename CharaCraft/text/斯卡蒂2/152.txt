@@ -1,0 +1,9 @@
+[name="老何塞"]难说。那就是你变了。你居然还给了他们逃的机会。
+[character(name="char_263_skadi#3")]
+[name="斯卡蒂"]可能吧。
+[character(name="avg_npc_181")]
+[name="老何塞"]是什么风把你又吹到我这来了？他们在这蹲你是不是和我有关系？
+[character(name="char_263_skadi#3")]
+[name="斯卡蒂"]我不知道。
+[PlayMusic(intro="$farce_intro", key="$farce_loop", volume=0.4)]
+[character(name="avg_npc_181")]

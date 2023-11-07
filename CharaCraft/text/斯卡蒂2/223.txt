@@ -1,0 +1,9 @@
+[name="安妮塔"]让我想想......或许床底下还有一些吃的。
+[Character(name="avg_npc_180#4", name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]这里，床？
+[Character(name="avg_npc_180#2", name2="avg_1012_skadiSP_1#4",focus=1)]
+[name="安妮塔"]是啊，看起来很奇怪吗？你家里的床不是铁做的吗？
+[Character(name="avg_npc_180#2", name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]我不大在意。
+[Character(name="avg_npc_180#1", name2="avg_1012_skadiSP_1#4",focus=1)]
+[name="安妮塔"]有些房子里也能找到木头床。木头可有用哩。木头可以烧，让屋子变得又亮堂又暖和。有的时候你要是生病了，这里的冬天可不好过。

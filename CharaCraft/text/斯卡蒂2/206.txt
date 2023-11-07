@@ -1,0 +1,14 @@
+[name="女性居民"]你怎么停下了？
+[Character(name="avg_1012_skadiSP_1#7", name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]......
+[name="斯卡蒂"]居然跟过来了。
+[Character(name="avg_1012_skadiSP_1#7", name2="avg_npc_180#4",focus=2)]
+[name="女性居民"]你在说什么？我又听不懂了。
+[Character(name="avg_1012_skadiSP_1#7", name2="avg_npc_180#4",focus=1)]
+[name="斯卡蒂"]那只黏人的小兽。
+[Character(name="avg_1012_skadiSP_1#7", name2="avg_npc_180#4",focus=2)]
+[name="女性居民"]奇怪啊，你总说小兽，那应该是指动物吧？我们这里没有活着的动物，早就没有啦！
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=1)]
+[name="斯卡蒂"]没事，继续走吧。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=2)]
+[name="女性居民"]好吧，外面来的朋友，你说了算。

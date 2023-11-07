@@ -1,0 +1,10 @@
+[name="安妮塔"]这又不是歌手故意的。
+[character(name="avg_1012_skadiSP_1#2",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]我不是故意的吗？
+[name="斯卡蒂"]我不知道。
+[character(name="avg_1012_skadiSP_1#2",name2="avg_npc_180#4",focus=2)]
+[name="安妮塔"]呃......
+[character(name="avg_1012_skadiSP_1#2")]
+[name="斯卡蒂"]在那之后......我就不知道了。
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]

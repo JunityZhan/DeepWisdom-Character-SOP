@@ -1,0 +1,6 @@
+[name="安妮塔"]这是不是说，你愿意跟我一起回去啦？太、太好了！
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]......
+[name="斯卡蒂"]真的......值得这么高兴？
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]

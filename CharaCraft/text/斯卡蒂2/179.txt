@@ -1,0 +1,9 @@
+[name="男性居民A"]我也没见过。
+[Character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]原来你们会说话。
+[character(name="avg_npc_187",name2="avg_npc_178",focus=2)]
+[name="男性居民A"]你是谁？
+[Character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]流浪歌手。
+[character(name="avg_npc_187",name2="avg_npc_178",focus=2)]
+[name="男性居民A"]流浪歌手，我不知道是什么。

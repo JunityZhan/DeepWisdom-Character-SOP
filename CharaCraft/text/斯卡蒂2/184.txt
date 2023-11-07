@@ -1,0 +1,5 @@
+[name="男性居民A"]木框的坑。你忘掉了。
+[Character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]哦，原来真的有用。
+[character(name="avg_npc_178")]
+[name="男性居民A"]外面来的人，我们的地方，你不应该来！

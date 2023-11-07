@@ -1,0 +1,9 @@
+[Character]
+[Character(name="char_263_skadi#4",name2="avg_474_gladiia_1#1",focus=1)]
+[name="斯卡蒂"]他很古怪，他的身上还留着一些......气味。
+[Character(name="char_263_skadi#4",name2="avg_474_gladiia_1#1",focus=2)]
+[name="歌蕾蒂娅"]什么气味？
+[Character(name="char_263_skadi#4",name2="avg_474_gladiia_1#1",focus=1)]
+[name="斯卡蒂"]另一个陆地国家的气味，你不会感兴趣的。
+[Character(name="char_263_skadi#4",name2="avg_474_gladiia_1#1",focus=2)]
+[name="歌蕾蒂娅"]毫无疑问，他是一只海嗣。但是与昆图斯不同。

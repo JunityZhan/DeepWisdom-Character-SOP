@@ -1,0 +1,6 @@
+[musicvolume(volume=0,fadetime=1)]
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]听好。这真的不关你的事。
+[name="斯卡蒂"]因为——它们是来找我的。
+[dialog]
+[playsound(key="$d_gen_walk_n")]

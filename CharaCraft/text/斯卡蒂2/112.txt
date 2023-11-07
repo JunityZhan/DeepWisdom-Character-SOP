@@ -1,0 +1,5 @@
+[name="海嗣"]我们中，有许多，想要见你。Ishar-mla，伊莎玛拉。
+[Character(name="char_263_skadi#6")]
+[name="斯卡蒂"]——！
+[Character(name="avg_npc_455_1#1$1")]
+[name="海嗣"]族群等待着你。我们等待着你。我们希望你给出答案。

@@ -1,0 +1,5 @@
+[name="乌尔比安"]......斯卡蒂。
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]什么？
+[Character(name="avg_npc_445_1#1$1")]
+[name="乌尔比安"]待在歌蕾蒂娅身边，然后记住一件事。

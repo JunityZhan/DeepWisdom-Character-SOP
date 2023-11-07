@@ -1,0 +1,7 @@
+[name="审判官艾丽妮"]什么......还有别的幸存者？
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]不，是敌人。有别的敌人潜上了这艘船，能跨越大海，已经足够说明他们的身份。
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]我们分头走，你去哪边？
+[Character(name="avg_4009_irene_1#2$1")]
+[name="审判官艾丽妮"]......我......

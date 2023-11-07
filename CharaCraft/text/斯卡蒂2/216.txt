@@ -1,0 +1,5 @@
+[PlayMusic(intro="$ponder_intro", key="$ponder_loop", volume=0.4)]
+[Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]附近有人，两个。
+[Character(name="avg_npc_180#2", name2="avg_1012_skadiSP_1#4",focus=1)]
+[name="安妮塔"]他们呀，他们平时就在这里。

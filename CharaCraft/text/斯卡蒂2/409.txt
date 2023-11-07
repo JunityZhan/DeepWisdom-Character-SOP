@@ -1,0 +1,5 @@
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[delay(time=1)]
+[name="斯卡蒂"]二队长，幽灵鲨......先离开这！
+[dialog]
+[character]

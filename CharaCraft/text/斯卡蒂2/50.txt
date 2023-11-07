@@ -1,0 +1,7 @@
+[name="审判官艾丽妮"]你们说要追踪那只怪物，你们真的追得到它？
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]气味不会骗人。
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]尽管这里尽是腐臭的味道，肯定有不少——
+[dialog]
+[Character(fadetime=0)]

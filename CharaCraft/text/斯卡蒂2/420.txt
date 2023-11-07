@@ -1,0 +1,5 @@
+[stopmusic(fadetime=1)]
+[character(name="avg_1012_skadiSP_1#8")]
+[name="斯卡蒂"]这里快塌了，而且......
+[dialog]
+[character]

@@ -1,0 +1,9 @@
+[name="安妮塔"]很好啊。要我说，你终于能摆脱她了。
+[character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]什么？
+[character(name="avg_npc_180#1")]
+[name="安妮塔"]这种包袱太重了。
+[character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]我不懂你的意思。
+[character(name="avg_npc_180#1")]
+[name="安妮塔"]不管你坚持个多少年，二三十年后，无论是你还是她，都只会想着要解脱。

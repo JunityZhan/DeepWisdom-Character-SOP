@@ -1,0 +1,5 @@
+[name="歌蕾蒂娅"]你已经软弱到渴望这些虚无的幻觉了吗，斯卡蒂？
+[character(name="avg_474_gladiia_1#5",name2="avg_1012_skadiSP_1#1",focus=2)]
+[name="斯卡蒂"]......
+[character(name="avg_474_gladiia_1#3",name2="avg_1012_skadiSP_1#1",focus=1)]
+[name="歌蕾蒂娅"]你多久没跳舞了？你走的路太多，你的皮肤很干燥。你也许已经遗忘了呼吸的节奏。

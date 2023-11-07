@@ -1,0 +1,5 @@
+[name="安妮塔"]你还年轻，你不用过得这么辛苦。
+[character(name="avg_1012_skadiSP_1#5")]
+[name="斯卡蒂"]......没那么简单。
+[character(name="avg_npc_180#3")]
+[name="安妮塔"]简单不简单的，你可以说说看啊。

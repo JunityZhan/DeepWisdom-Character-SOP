@@ -1,0 +1,13 @@
+[name="幽灵鲨"]这些孩子数量在变多。
+[Character(name="avg_1023_ghost2_1#4$1",name2="char_263_skadi#3",focus=2)]
+[name="斯卡蒂"]......你还好吗？
+[Character(name="avg_1023_ghost2_1#4$1",name2="char_263_skadi#3",focus=1)]
+[name="幽灵鲨"]我？我有什么......
+[Character(name="avg_1023_ghost2_1#4$1",name2="char_263_skadi#3",focus=2)].
+[name="斯卡蒂"]一路来伊比利亚，你一言不发。
+[Character(name="avg_1023_ghost2_1#2$1",name2="char_263_skadi#3",focus=1)]
+[name="幽灵鲨"]我在你眼里曾是一个喋喋不休的人吗，斯卡蒂？
+[Character(name="avg_1023_ghost2_1#2$1",name2="char_263_skadi#7",focus=2)]
+[name="斯卡蒂"]......
+斯卡蒂端详着幽灵鲨的眼睛。
+她总算在陆地上见到劳伦缇娜的时候，劳伦缇娜的眼中蒙上了一层阴霾。

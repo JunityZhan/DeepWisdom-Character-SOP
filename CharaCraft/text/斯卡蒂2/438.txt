@@ -1,0 +1,5 @@
+[name="审判官艾丽妮"]威胁着这座城市、威胁着伊比利亚的，不会是一个两个阿戈尔人。
+[character(name="avg_1012_skadiSP_1#3",name2="avg_npc_182#2",focus=1)]
+[name="斯卡蒂"]......你变化不小。
+[character(name="avg_1012_skadiSP_1#3",name2="avg_npc_182#1",focus=2)]
+[name="审判官艾丽妮"]......那你功劳挺大。

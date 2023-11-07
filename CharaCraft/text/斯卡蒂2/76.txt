@@ -1,0 +1,5 @@
+[name="幽灵鲨"]斯卡蒂。
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]嗯？
+[Character(name="avg_1023_ghost2_1#11$1")]
+[name="幽灵鲨"]我又想起来一些事情。我们......是怎么活下来的？

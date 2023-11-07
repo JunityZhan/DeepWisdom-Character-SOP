@@ -1,0 +1,5 @@
+[name="幽灵鲨"]有什么事吗？
+[Character(name="avg_1023_ghost2_1#2$1",name2="char_263_skadi#5",focus=2)]
+[name="斯卡蒂"]......你还好吗？
+[Character(name="avg_1023_ghost2_1#2$1",name2="char_263_skadi#5",focus=1)]
+[name="幽灵鲨"]很好，只是，有些困。

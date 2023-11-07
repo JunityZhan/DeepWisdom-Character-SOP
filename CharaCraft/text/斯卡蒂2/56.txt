@@ -1,0 +1,9 @@
+[name="幽灵鲨"]......！
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]幽灵鲨！
+[Character(name="avg_1023_ghost2_1#3$1")]
+[name="幽灵鲨"]我......
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]别乱想！
+[Character(name="avg_1023_ghost2_1#1$1")]
+[name="幽灵鲨"]我没乱想。

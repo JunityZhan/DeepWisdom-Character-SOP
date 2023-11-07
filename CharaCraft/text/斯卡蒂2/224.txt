@@ -1,0 +1,5 @@
+[name="安妮塔"]你可以帮我一把，把这些干了的海草从我眼前拿开。不，别扔在地上，就算不能吃了，它们也还能垫床铺。
+[Character(name="avg_npc_180#1", name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]好多东西。
+[Character(name="avg_npc_180#1", name2="avg_1012_skadiSP_1#4",focus=1)]
+[name="安妮塔"]是啊，我把有用的都藏在这里。

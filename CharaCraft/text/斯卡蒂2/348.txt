@@ -1,0 +1,5 @@
+[name="安妮塔"]歌手，你也拿一些？
+[character(name="avg_npc_180#3",name2="avg_1012_skadiSP_1#1",focus=2)]
+[name="斯卡蒂"]......
+[delay(time=1)]
+[character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#1",focus=1)]

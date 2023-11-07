@@ -1,0 +1,5 @@
+[delay(time=1)]
+[character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]（拨琴）
+[delay(time=1)]
+[character]

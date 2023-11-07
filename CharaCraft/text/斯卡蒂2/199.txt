@@ -1,0 +1,5 @@
+[name="老年居民"]怪物！你这个怪物！
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_179#3",focus=1)]
+[name="斯卡蒂"]（皱眉）
+[Character(name="avg_npc_180#2")]
+[name="女性居民"]奶奶，这里没有怪物。她只是个流浪歌手呀。

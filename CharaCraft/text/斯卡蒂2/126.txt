@@ -1,0 +1,5 @@
+[name="幽灵鲨"]......我们......总算见到了故乡的城市，现在，又要背对着它离开？
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]......
+[dialog]
+[character(fadetime=0)]

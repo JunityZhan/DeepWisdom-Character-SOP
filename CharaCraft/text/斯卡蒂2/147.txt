@@ -1,0 +1,5 @@
+[character(name="char_263_skadi#3",fadetime=1.5)]
+[delay(time=2)]
+[name="斯卡蒂"]......你们在这干什么？
+[Character(name="avg_npc_007", name2="avg_npc_008",focus=1)]
+[name="赏金猎人A"]喂，她是斯卡蒂吧？

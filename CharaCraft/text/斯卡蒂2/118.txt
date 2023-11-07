@@ -1,0 +1,5 @@
+[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]......
+[Character(name="avg_npc_455_1#1$1")]
+[name="海嗣"]......Ishar-mla。我再次感受到，祂的脉动。

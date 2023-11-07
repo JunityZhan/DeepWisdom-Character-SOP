@@ -1,0 +1,8 @@
+[name="老何塞"]我不用你来告诉我，你这个阿戈尔婆娘！
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=1)]
+[name="斯卡蒂"]那为什么？为什么死的是他们？
+[name="斯卡蒂"]我在等，在找，我一定得把那些追着我的影子全杀了，可我根本找不到，我看都看不见他们。
+[name="斯卡蒂"]那我该怎么办？除了远离所有人，我还能怎么办？
+[name="斯卡蒂"]还有谁......谁能告诉我？
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=2)]
+[CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]

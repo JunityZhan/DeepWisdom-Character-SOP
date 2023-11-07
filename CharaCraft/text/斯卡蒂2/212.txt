@@ -1,0 +1,5 @@
+[name="女性居民"]在你来的地方，人们会跳舞吗？就像佩特拉奶奶说的那样，广场上的舞会？
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]偶尔。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#2",focus=2)]
+[name="女性居民"]那为什么不见你跳舞呢？我看到你的琴了。

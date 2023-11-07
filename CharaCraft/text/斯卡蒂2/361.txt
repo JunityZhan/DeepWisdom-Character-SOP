@@ -1,0 +1,5 @@
+[name="安妮塔"]以前我没想过。现在，呃，我还想......再多听歌手唱一会儿歌。我还要教小长凳唱，就像佩特拉奶奶教会我的那么多事一样。
+[character(name="avg_1012_skadiSP_1#2",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]那你可得和你奶奶一样，活久一些。
+[character(name="avg_1012_skadiSP_1#2",name2="avg_npc_180#3",focus=2)]
+[name="安妮塔"]嗯！至少现在，我一点都不担心。

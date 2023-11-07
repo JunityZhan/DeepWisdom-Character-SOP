@@ -1,0 +1,5 @@
+[name="海嗣"]你们领地里的人的死，是你领地里的人做的。
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]说谎！
+[Character(name="avg_npc_186")]
+[name="海嗣"]说谎？我想知道说谎的意思。“扯谎”，刚才你也说了。我想知道。

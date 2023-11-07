@@ -1,0 +1,7 @@
+[PlayMusic(intro="$tense_intro", key="$tense_loop", volume=0.8, crossfade=1, delay=0.5)]
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]......这只幼小的......不，它们不能用体形判断力量。它是海嗣，又一只，毫无疑问。
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]还有恐鱼，恐鱼群正在聚集！幽灵鲨！
+[dialog]
+[Character(fadetime=0)]

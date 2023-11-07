@@ -1,0 +1,5 @@
+[name="罗德岛干员"]好啦！等这份报告提交完成，你的外勤任务就算结束了。
+[character(name="char_016_medic",name2="char_263_skadi#3",focus=2)]
+[name="斯卡蒂"]嗯。
+[character(name="char_016_medic",name2="char_263_skadi#3",focus=1)]
+[name="罗德岛干员"]等一下，又是......空白？咳，咳咳......

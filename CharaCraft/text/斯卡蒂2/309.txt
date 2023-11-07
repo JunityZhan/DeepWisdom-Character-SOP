@@ -1,0 +1,5 @@
+[name="安妮塔"]没关系。我信你。真有什么，你也能赢。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#1",focus=1)]
+[name="斯卡蒂"]......
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#1",focus=2)]
+[name="安妮塔"]看，伤口没那么严重，已经不流血啦。

@@ -1,0 +1,5 @@
+[name="幽灵鲨"]我。
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]不。
+[character(name="avg_474_gladiia_1#1")]
+[name="歌蕾蒂娅"]你们回去。

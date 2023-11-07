@@ -1,0 +1,5 @@
+[name="歌蕾蒂娅"]看到你的老样子真不错，鲨鱼。
+[character(name="avg_1012_skadiSP_1",name2="avg_474_gladiia_1",focus=1)]
+[name="斯卡蒂"]呃。我都快忘了她是这个性子。
+[dialog]
+[Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]

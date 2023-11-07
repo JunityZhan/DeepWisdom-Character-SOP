@@ -1,0 +1,9 @@
+[name="审判官"]他们和你一样危险。危险必须被控制，就如错误务必得纠正。
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]你还没有放弃。
+[character(name="avg_npc_182#3")]
+[name="审判官"]我现在更不能放过你了。
+[character(name="avg_1012_skadiSP_1#7")]
+[name="斯卡蒂"]......我说过了。我还有事要做，时间很紧。
+[character(name="avg_npc_182#3")]
+[name="审判官"]那就只能再来打一次了。

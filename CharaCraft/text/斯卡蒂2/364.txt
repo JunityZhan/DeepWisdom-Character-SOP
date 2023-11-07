@@ -1,0 +1,6 @@
+[name="幼年居民"]啊......歌......啊啊......
+[character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]......别抓。
+[name="斯卡蒂"]这个给你。
+[dialog]
+[character]

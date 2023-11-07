@@ -1,0 +1,5 @@
+[PlayMusic(intro="$newhope01_intro", key="$newhope01_loop", volume=0.4)]
+[Delay(time=1)]
+[name="斯卡蒂"]藏宝图。
+[delay(time=1)]
+[character(name="avg_npc_180#2")]

@@ -1,0 +1,5 @@
+[delay(time=2)]
+[character(name="avg_1012_skadiSP_1#4",name2="avg_npc_178",focus=1)]
+[name="斯卡蒂"]你好。
+[character(name="avg_1012_skadiSP_1#4",name2="avg_npc_178",focus=2)]
+[name="男性居民"]......

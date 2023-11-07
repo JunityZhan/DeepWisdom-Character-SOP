@@ -1,0 +1,5 @@
+[musicvolume(volume=0.4,fadetime=1)]
+[character(name="avg_474_gladiia_1#1",name2="avg_1012_skadiSP_1#1",focus=2)]
+[name="斯卡蒂"]你干什么？
+[character(name="avg_474_gladiia_1#1",name2="avg_1012_skadiSP_1#1",focus=1)]
+[name="歌蕾蒂娅"]嘘。

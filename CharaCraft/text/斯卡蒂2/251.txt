@@ -1,0 +1,13 @@
+[name="安妮塔"]而且，爱跳舞的人，会像你这样不在意地坐在满是尘土的地方，把裙子弄脏吗？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#1",focus=1)]
+[name="斯卡蒂"]你该回去了。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=2)]
+[name="安妮塔"]你嫌我烦啦？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]这不是什么好地方，你说的。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#4",focus=2)]
+[name="安妮塔"]可我想陪陪你。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#4",focus=1)]
+[name="斯卡蒂"]我不用人陪。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#4",focus=2)]
+[name="安妮塔"]唉，我发现了。你坐在屋里，眼睛一直在看着外面。你在看哪里？海边，还是教堂？

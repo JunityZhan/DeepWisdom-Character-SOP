@@ -1,0 +1,5 @@
+[name="海嗣"]罪？
+[character(name="avg_1012_skadiSP_1#2")]
+[name="斯卡蒂"]我的罪恶......我......
+[Character(name="avg_npc_186")]
+[name="海嗣"]Ishar-mla，不要疑惑。我们没有罪。

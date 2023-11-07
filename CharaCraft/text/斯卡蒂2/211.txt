@@ -1,0 +1,10 @@
+[name="女性居民"]以前只有佩特拉奶奶总是陪我说话。现在还有你了，真好。哎呀，你会不会也嫌我烦？
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]......
+[name="斯卡蒂"]在我来的地方，比你更爱说个不停的人有很多。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=2)]
+[name="女性居民"]这么说的话，那一定是个好地方了。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]......是还行。
+[PlayMusic(intro="$newhope01_intro", key="$newhope01_loop", volume=0.4)]
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#2",focus=2)]

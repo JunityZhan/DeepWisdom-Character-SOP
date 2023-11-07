@@ -1,0 +1,5 @@
+[name="海嗣"]姐妹，你现在也不清楚自己从哪里来。
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]我来自阿戈尔，怪物......我是你的天敌。
+[Character(name="avg_npc_186")]
+[name="海嗣"]你不清楚。

@@ -1,0 +1,5 @@
+[name="安妮塔"]其实我就是想跟着你。
+[character(name="avg_1012_skadiSP_1#4",name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]......
+[dialog]
+[delay(time=1)]

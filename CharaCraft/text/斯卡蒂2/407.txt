@@ -1,0 +1,6 @@
+[delay(time=1)]
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]啊，手还是好麻。
+[name="斯卡蒂"]罗德岛混了这么几年，这点准备我还是做得好的。接着。
+[dialog]
+[character]

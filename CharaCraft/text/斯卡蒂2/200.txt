@@ -1,0 +1,22 @@
+[delay(time=1)]
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=1)]
+[name="斯卡蒂"]没事。
+[name="斯卡蒂"]还没露面的麻烦，就像不敢露出牙齿的小兽。不用管。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=2)]
+[name="女性居民"]佩特拉奶奶她......
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=1)]
+[name="斯卡蒂"]她知道弹琴，还知道跳舞。她说起话来就像外面的人。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=2)]
+[name="女性居民"]是这样吗？难怪，她说的很多东西，我都听不懂哩。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=1)]
+[name="斯卡蒂"]她叫我怪物。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=2)]
+[name="女性居民"]她不是故意的。奶奶她经常看到不存在的东西，就像老在做梦一样。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=1)]
+[name="斯卡蒂"]......谁不是呢。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=2)]
+[name="女性居民"]她病了，没法回答你问题。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=1)]
+[name="斯卡蒂"]可惜。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#1",focus=2)]
+[name="女性居民"]歌手，你不要着急。

@@ -1,0 +1,7 @@
+[delay(time=1)]
+[character(name="char_263_skadi#8")]
+[name="斯卡蒂"]......
+[name="斯卡蒂"]（阿戈尔语）烂掉的海草最粘人。
+[name="斯卡蒂"]没想到，不会变的就只有劣质赏金猎人的麻烦劲。
+[Dialog]
+[Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]

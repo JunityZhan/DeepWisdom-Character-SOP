@@ -1,0 +1,9 @@
+[name="安妮塔"]况且没什么人能坚持那么长的时间。
+[character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]你这是在说什么？
+[character(name="avg_npc_180#1")]
+[name="安妮塔"]我说，你说不定是命特别好的那种人。你不用再找她了。
+[character(name="avg_1012_skadiSP_1#5")]
+[name="斯卡蒂"]......
+[character(name="avg_npc_180#1")]
+[name="安妮塔"]在我们这里，只有没包袱的人才能活得久些。要是脑子里一直想一件事情，人就会发疯。

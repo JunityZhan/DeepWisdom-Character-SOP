@@ -1,0 +1,9 @@
+[name="女性居民"]抱歉，长凳看到没见过的东西就想用手拿。他不懂这东西他不该拿。
+[Character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]（接过项链）
+[Character(name="avg_npc_180#4")]
+[name="女性居民"]呃，全是口水......你的手都弄脏了。
+[Character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]拿回来就行。
+[dialog]
+[character]

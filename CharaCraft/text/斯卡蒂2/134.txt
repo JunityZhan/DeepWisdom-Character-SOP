@@ -1,0 +1,14 @@
+[name="罗德岛干员"]现在你提交的这份报告，真的很需要再补充！
+[character(name="char_016_medic",name2="char_263_skadi#5",focus=2)]
+[name="斯卡蒂"]......
+[name="斯卡蒂"]很麻烦。
+[character(name="char_016_medic",name2="char_263_skadi#3",focus=1)]
+[name="罗德岛干员"]那么，任务编码F1071，确认提交，后续补充——
+[character(name="char_016_medic",name2="char_263_skadi#3",focus=2)]
+[name="斯卡蒂"]等等。
+[character(name="char_016_medic",name2="char_263_skadi#3",focus=1)]
+[name="罗德岛干员"]咦？
+[character(name="char_016_medic",name2="char_263_skadi#3",focus=2)]
+[name="斯卡蒂"]把档案还给我。我想起来，再完善点内容也可以。
+[character(name="char_016_medic",name2="char_263_skadi#3",focus=1)]
+[name="罗德岛干员"]啊！当然可以！那就麻烦你啦。

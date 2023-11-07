@@ -1,0 +1,11 @@
+[name="幽灵鲨"]斯卡蒂。你去追吧。
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]不是你的猎物吗？
+[Character(name="avg_1023_ghost2_1#1$1")]
+[name="幽灵鲨"]谁让我看见了一位更令人怀念的人物呢。
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]......好，你小心。
+[Character(name="char_263_skadi#6")]
+[name="斯卡蒂"]艾丽妮？
+[Character(name="avg_4009_irene_1#4$1")]
+[name="审判官艾丽妮"]......你撒谎。

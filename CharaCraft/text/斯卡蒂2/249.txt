@@ -1,0 +1,5 @@
+[name="安妮塔"]你瞧，上次的鳞油还剩下些，壁炉叔早早点好了灯，屋子里亮堂堂的。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]不需要。
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]

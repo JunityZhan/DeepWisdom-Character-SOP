@@ -1,0 +1,5 @@
+[name="主教"]所以你来这里，不是她让你来的？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_184",focus=1)]
+[name="斯卡蒂"]——不是你让我来的吗？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_184",focus=2)]
+[name="主教"]仅仅是我让你来，你是不会来这里的，对吧。我只是个陌生人。

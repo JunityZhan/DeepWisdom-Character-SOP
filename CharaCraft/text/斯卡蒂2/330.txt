@@ -1,0 +1,9 @@
+[delay(time=1)]
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]这么不小心的话，是会被怪物吃掉的。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=2)]
+[name="安妮塔"]歌手......你又救了我。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]......要是你不跑来的话，就不会这么多事。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=2)]
+[name="安妮塔"]哈哈......抱、抱歉啦......

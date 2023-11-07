@@ -1,0 +1,5 @@
+[name="幽灵鲨"]怎么了？
+[Character(name="avg_1023_ghost2_1#2$1",name2="char_263_skadi#9",focus=2)]
+[name="斯卡蒂"]......
+[Character(name="avg_474_gladiia_1#4")]
+[name="歌蕾蒂娅"]别胡思乱想，斯卡蒂。

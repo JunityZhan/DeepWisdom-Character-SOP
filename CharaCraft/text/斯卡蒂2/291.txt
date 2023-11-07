@@ -1,0 +1,5 @@
+[name="审判官"]到现在为止，你还没有做错事。快闪开！我也不想用剑对付你。
+[character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#1",focus=2)]
+[name="斯卡蒂"]不是时候——
+[character(name="avg_npc_182#4")]
+[name="审判官"]不是什么时候？你......你瞧不起我？你以为我一定没法拿下你？

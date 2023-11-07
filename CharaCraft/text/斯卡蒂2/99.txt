@@ -1,0 +1,5 @@
+[PlaySound(key="$d_avg_sea", volume=0.6, loop=true, channel="sea")]
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]——
+斯卡蒂没有眨眼。
+她对这样的动作再清楚不过。简单，直接，幅度巨大。

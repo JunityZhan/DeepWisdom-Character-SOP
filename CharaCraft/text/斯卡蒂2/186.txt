@@ -1,0 +1,9 @@
+[name="幼年居民"]呜，呜呜......木框，木框......
+[Character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]他跑，我跟着。
+[Character(name="avg_npc_180#2")]
+[name="女性居民"]你对我们没有恶意。
+[Character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]只要他把我的东西还给我。
+[Character(name="avg_npc_180#4")]
+[name="女性居民"]咦？

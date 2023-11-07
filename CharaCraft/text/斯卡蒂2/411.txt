@@ -1,0 +1,5 @@
+[character(name="avg_1012_skadiSP_1#1",fadetime=1)]
+[delay(time=1)]
+[name="斯卡蒂"]要冲进教堂了！
+[character(name="char_143_ghost#3")]
+[name="幽灵鲨"]它可没停下来！

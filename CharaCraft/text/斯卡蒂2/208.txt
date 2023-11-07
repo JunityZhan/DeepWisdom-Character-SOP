@@ -1,0 +1,5 @@
+[name="女性居民"]他这时候一般不在教堂里面。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#1",focus=1)]
+[name="斯卡蒂"]他什么时候在？
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#1",focus=2)]
+[name="女性居民"]每隔一段时间，他会主动出现在我们面前，亲切地与我们每个人聊天。

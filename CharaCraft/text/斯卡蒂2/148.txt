@@ -1,0 +1,5 @@
+[name="赏金猎人A"]是斯卡蒂没错，我们蹲对地方了。
+[character(name="char_263_skadi#5")]
+[name="斯卡蒂"]嗯？
+[Character(name="avg_npc_007", name2="avg_npc_008",focus=2)]
+[name="赏金猎人B"]喂，她真应了......而且你看她那把剑。她真的是斯卡蒂！

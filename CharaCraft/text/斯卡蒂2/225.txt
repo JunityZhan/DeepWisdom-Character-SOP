@@ -1,0 +1,9 @@
+[name="安妮塔"]还有，这个也不能吃，就算给你也没用呀！
+[Character(name="avg_npc_180#2", name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]木框......画框？
+[Character(name="avg_npc_180#1", name2="avg_1012_skadiSP_1#4",focus=1)]
+[name="安妮塔"]你听到他们这么叫我了？
+[Character(name="avg_npc_180#1", name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]我只知道你叫安妮塔。
+[Character(name="avg_npc_180#1", name2="avg_1012_skadiSP_1#4",focus=1)]
+[name="安妮塔"]安妮塔是我自己起的......我从佩特拉奶奶的故事里听来的，那个女孩儿和你一样，很会唱歌。是不是比木框好听多了？

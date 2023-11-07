@@ -1,0 +1,5 @@
+[name="安妮塔"]我还以为我们的房子也会跟着塌掉。
+[character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]你们没事？
+[character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#3",focus=2)]
+[name="安妮塔"]没事哩。唯一的麻烦是，吃的都还在屋子里，全部烂了。哎，又要饿一阵肚子了。

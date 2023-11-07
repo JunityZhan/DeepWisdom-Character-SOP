@@ -1,0 +1,5 @@
+[stopmusic(fadetime=1)]
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]二队长！！
+[dialog]
+[Blocker(a=0, r=255,g=255, b=255, fadetime=0, block=true)]

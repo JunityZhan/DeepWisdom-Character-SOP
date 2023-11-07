@@ -1,0 +1,13 @@
+[name="安妮塔"]哼哼~哼......♪
+[character(name="avg_1012_skadiSP_1#2",fadetime=1,block=true)]
+[name="斯卡蒂"]唔......
+[character(name="avg_npc_180#3",name2="avg_1012_skadiSP_1#2",focus=1)]
+[name="安妮塔"]歌手，你醒啦！早上好啊！
+[character(name="avg_npc_180#3",name2="avg_1012_skadiSP_1#2",focus=2)]
+[name="斯卡蒂"]谁在唱歌？
+[character(name="avg_npc_180#3",name2="avg_1012_skadiSP_1#2",focus=1)]
+[name="安妮塔"]这、这是歌吗？我不会唱。你睡着的时候，嘴里总在哼着这几句哩。
+[character(name="avg_npc_180#3",name2="avg_1012_skadiSP_1#2",focus=2)]
+[name="斯卡蒂"]我......
+[dialog]
+[CameraShake(duration=0.6, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]

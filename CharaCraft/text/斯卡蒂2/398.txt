@@ -1,0 +1,5 @@
+[name="海嗣"]你只是做了你会做的事，Ishar-mla，同胞做的没罪。
+[character(name="avg_1012_skadiSP_1#2")]
+[name="斯卡蒂"]可我替阿戈尔......我们杀了那么多......
+[dialog]
+[delay(time=1)]

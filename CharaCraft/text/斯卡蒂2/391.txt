@@ -1,0 +1,5 @@
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[delay(time=1)]
+[name="斯卡蒂"]不，不......！
+[Character(name="avg_npc_186")]
+[name="海嗣"]Ishar-mla，你和我们间的阻隔太强。你没有办法把想法传给我们。

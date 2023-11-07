@@ -1,0 +1,5 @@
+[delay(time=1)]
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]扯谎！
+[character(name="avg_npc_184")]
+[name="主教"]使者，你......什么？

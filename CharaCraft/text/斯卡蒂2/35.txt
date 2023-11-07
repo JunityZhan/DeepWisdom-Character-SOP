@@ -1,0 +1,9 @@
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Character(name="char_263_skadi#3")]
+[name="斯卡蒂"]你觉得我们真能找到那艘船？
+[Character(name="char_263_skadi#3",name2="avg_474_gladiia_1#1",focus=2)]
+[name="歌蕾蒂娅"]伊比利亚是唯一的切入点。
+[Character(name="char_263_skadi#3",name2="avg_474_gladiia_1#1",focus=1)]
+[name="斯卡蒂"]我不明白......如果船就是像罗德岛那样的地方，那为什么六十年间，它没有试过回到伊比利亚？
+[dialog]
+[character]

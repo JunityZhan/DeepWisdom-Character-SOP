@@ -1,0 +1,5 @@
+[name="歌蕾蒂娅"]那里已是它们的巢穴。离海岸很近，难怪那些恐鱼数量如此之多。
+[Character(name="avg_474_gladiia_1#1",name2="char_263_skadi#3",focus=2)]
+[name="斯卡蒂"]砍完就可以了吧。像以前那样。
+[Character(name="avg_474_gladiia_1#1",name2="char_263_skadi#3",focus=1)]
+[name="歌蕾蒂娅"]......对，像以前那样。

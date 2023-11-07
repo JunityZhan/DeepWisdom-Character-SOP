@@ -1,0 +1,5 @@
+[name="男性居民B"]哭？什么是哭？
+[Character(name="avg_1012_skadiSP_1#4",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]......是从你身体深处流淌出来的情绪。
+[Character(name="avg_npc_187")]
+[name="男性居民B"]这样......吗？我还是不大明白。

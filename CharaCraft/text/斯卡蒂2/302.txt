@@ -1,0 +1,11 @@
+[name="审判官"]无论如何，出于我的职责，我必须把你带走。
+[character(name="avg_1012_skadiSP_1#7")]
+[name="斯卡蒂"]......
+[name="斯卡蒂"]你不是问我来这里的意图么？
+[name="斯卡蒂"]我来这里，只是想找答案。这个答案，只和我自己......以及我要找的人有关。
+[character(name="avg_npc_182#2")]
+[name="审判官"]你刚才可没说。
+[character(name="avg_1012_skadiSP_1#7")]
+[name="斯卡蒂"]......你也没怎么给我说的机会。
+[character(name="avg_npc_182#2")]
+[name="审判官"]......

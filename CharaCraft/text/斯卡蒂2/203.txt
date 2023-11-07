@@ -1,0 +1,5 @@
+[name="女性居民"]“要使得自身强健，更要令族群更强健，这样才能有更好的生活。”
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]这话听着耳熟。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=2)]
+[name="女性居民"]是吗？教士说，外面的大家也都信这些。

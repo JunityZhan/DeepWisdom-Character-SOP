@@ -1,0 +1,11 @@
+[delay(time=2)]
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]唔，刚才的冲击......幽灵鲨，还好吗？
+[Character(name="avg_1023_ghost2_1#4$1")]
+[name="幽灵鲨"]......
+[Character(name="char_263_skadi#6")]
+[name="斯卡蒂"]......幽灵鲨？劳伦缇娜！
+[Character(name="char_263_skadi#4")]
+[name="斯卡蒂"]你在看什么？镜子？这里怎么会有一面镜子？
+[dialog]
+[Character(fadetime=0)]

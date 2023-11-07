@@ -1,0 +1,5 @@
+[delay(time=1.5)]
+[character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]有人在说话。
+[dialog]
+[musicvolume(volume=0.4,fadetime=1)]

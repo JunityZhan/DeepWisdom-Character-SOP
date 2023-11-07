@@ -1,0 +1,17 @@
+[name="安妮塔"]这样的一天，和过去的每一天都不一样。就因为我不知道可能会发生什么，而不是一眼从天亮望到天黑。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]你很亢奋。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=2)]
+[name="安妮塔"]这是亢奋？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]害怕，亢奋。没什么差别。都是心跳加快，血液变热。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=2)]
+[name="安妮塔"]我是病了吗？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]这不是病。对有些人来说，这是活着。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=2)]
+[name="安妮塔"]原来活着的感觉这么好。外面的日子，是不是每一天都能这样？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]总比这里强些。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=2)]
+[name="安妮塔"]......我真的可以到外面去吗？

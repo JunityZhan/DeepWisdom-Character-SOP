@@ -1,0 +1,5 @@
+[name="安妮塔"]唉。
+[Character(name="avg_npc_180#4", name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]你在叹气。
+[Character(name="avg_npc_180#4", name2="avg_1012_skadiSP_1#4",focus=1)]
+[name="安妮塔"]这个桶空啦。盘子也是空的。

@@ -1,0 +1,5 @@
+[name="幽灵鲨"]......
+[Character(name="avg_1023_ghost2_1#4$1",name2="char_263_skadi#3",focus=2)]
+[name="斯卡蒂"]幽灵鲨。
+[Character(name="avg_1023_ghost2_1#4$1",name2="char_263_skadi#3",focus=1)]
+[name="幽灵鲨"]......嗯？

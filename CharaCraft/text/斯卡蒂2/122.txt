@@ -1,0 +1,7 @@
+[name="幽灵鲨"]......这下清净了。
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]......不......
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]海嗣......更多海嗣就在这附近，它们在靠近。
+[Character(name="avg_1023_ghost2_1#6$1")]
+[name="幽灵鲨"]而且这艘船就要沉了。

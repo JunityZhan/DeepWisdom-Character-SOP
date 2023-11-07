@@ -1,0 +1,5 @@
+[name="歌蕾蒂娅"]鲨鱼，斯卡蒂！
+[Character(name="char_263_skadi#3")]
+[name="斯卡蒂"]......那艘船......
+[Character(name="avg_474_gladiia_1#2")]
+[name="歌蕾蒂娅"]是的。

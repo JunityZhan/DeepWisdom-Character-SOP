@@ -1,0 +1,13 @@
+[Delay(time=1)]
+[Character(name="avg_1023_ghost2_1#4$1",name2="char_263_skadi#4",focus=2)]
+[name="斯卡蒂"]......恐鱼没有靠近她，不，就像她不存在一样......她那是在弹琴吗？
+[Character(name="avg_1023_ghost2_1#4$1",name2="char_263_skadi#4",focus=1)]
+[name="幽灵鲨"]好听吗？
+[Character(name="avg_1023_ghost2_1#4$1",name2="char_263_skadi#3",focus=2)]
+[name="斯卡蒂"]我不知道。
+[Character(name="avg_1023_ghost2_1#2$1",name2="char_263_skadi#3",focus=1)]
+[name="幽灵鲨"]那不如问问她。
+[Character(name="char_empty",name2="char_263_skadi#6",fadetime=0.3,focus=2)]
+[name="斯卡蒂"]等等！
+[StopMusic(fadetime=2)]
+[Dialog]

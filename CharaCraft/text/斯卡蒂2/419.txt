@@ -1,0 +1,10 @@
+[name="歌蕾蒂娅"]不是。
+[character(name="avg_1012_skadiSP_1#8")]
+[name="斯卡蒂"]行了。走吧。
+[character(name="char_143_ghost#2")]
+[name="幽灵鲨"]真爽快。
+[character(name="avg_1012_skadiSP_1#8")]
+[name="斯卡蒂"]没什么好磨蹭的。我到底是个深海猎人。
+[name="斯卡蒂"]......难道二队的人不这样？
+[character(name="avg_474_gladiia_1#4")]
+[name="歌蕾蒂娅"]深海猎人都这样。

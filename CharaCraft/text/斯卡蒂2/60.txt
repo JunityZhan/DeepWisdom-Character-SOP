@@ -1,0 +1,9 @@
+[name="幽灵鲨"]不过稍有些喘不过气的，就是回想起这些年的事情，有些让人很不好意思。
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]......你的状态还不稳定，我去。
+[Character(name="avg_1023_ghost2_1#7$1")]
+[name="幽灵鲨"]怎么，要和我抢猎物？
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]它会想办法逃进海里。
+[Character(name="avg_1023_ghost2_1#1$1")]
+[name="幽灵鲨"]它当然会，但是，它刚才明显不是因为打不过我们而选择逃跑。

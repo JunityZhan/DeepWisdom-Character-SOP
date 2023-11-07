@@ -1,0 +1,5 @@
+[name="安妮塔"]他们叫我木框。因为佩特拉奶奶是从这块画框下面找到我的。
+[Character(name="avg_npc_180#1", name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]你说过自己的母亲。
+[Character(name="avg_npc_180#1", name2="avg_1012_skadiSP_1#4",focus=1)]
+[name="安妮塔"]她没把我交给其他人，她够勇敢了。在我出生的时候，我们这里没有孩子，孩子活不下去。

@@ -1,0 +1,5 @@
+[name="安妮塔"]唉，我们这里不分什么你的我的。我明白藏东西不好。歌手，你不会说出去的对不对？你对我的东西也不感兴趣。
+[Character(name="avg_npc_180#1", name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]你放心我？
+[Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=1)]
+[name="安妮塔"]你是客人，佩特拉奶奶教过我，我们要好好招待客人。

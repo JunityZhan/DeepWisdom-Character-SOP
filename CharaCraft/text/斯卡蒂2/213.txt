@@ -1,0 +1,19 @@
+[name="女性居民"]佩特拉奶奶同我说过。你们不是会边唱边跳吗？
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]我的舞蹈......你们不能看。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#2",focus=2)]
+[name="女性居民"]为什么？
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]时间，场合，面前的人，都不对。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=2)]
+[name="女性居民"]你太奇怪了，简直比我还要奇怪。你的家到底是哪里？你来的地方，那里的人都像你这么奇怪吗？
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#4",focus=1)]
+[name="斯卡蒂"]（拨琴）
+[name="斯卡蒂"]我来的地方，并不是家。
+[name="斯卡蒂"]我也不知道我家是哪里了。我家已经没了。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#1",focus=2)]
+[name="女性居民"]那也没什么。我家也早就没了，好几年前一场大风，房子塌啦。我妈妈当时就在房间里，她人也没了。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#1",focus=1)]
+[name="斯卡蒂"]......
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=2)]
+[name="女性居民"]这也没什么。大家都这样。房子没了的话，再找一间没人的就可以住下。这里房子有的是哩。

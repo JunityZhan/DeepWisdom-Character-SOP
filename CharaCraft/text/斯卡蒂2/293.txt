@@ -1,0 +1,5 @@
+[name="安妮塔"]这是......什么啊？不是我们的人弄出来的，我以前从来都没有听过......
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#3",focus=1)]
+[name="斯卡蒂"]越来越近了。
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]

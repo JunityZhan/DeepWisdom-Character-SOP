@@ -1,0 +1,13 @@
+[name="幽灵鲨"]这是谁的主意？总不会是我自己的吧？
+[Character(name="char_263_skadi#5")]
+[name="斯卡蒂"]我们三个人的主意。
+[Character(name="avg_1023_ghost2_1#6$1")]
+[name="幽灵鲨"]那款式呢？
+[Character(name="char_263_skadi#5")]
+[name="斯卡蒂"]......剑鱼挑的。
+[Character(name="avg_1023_ghost2_1#7$1")]
+[name="幽灵鲨"]难为她了。
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]我们得专注于战斗。
+[Character(name="avg_1023_ghost2_1#1$1")]
+[name="幽灵鲨"]我知道，但是我也没有放弃过在狩猎前整理仪容，不是吗？

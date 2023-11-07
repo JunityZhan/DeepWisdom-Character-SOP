@@ -1,0 +1,9 @@
+[name="老何塞"]就是那样的人杀了我儿子。你都不知道的人。
+[character(name="char_263_skadi#3")]
+[name="斯卡蒂"]......我就是害怕那样的事情。
+[character(name="avg_npc_181")]
+[name="老何塞"]罢了。至少你说的人不会费尽心思杀我。你去盐风城做什么？
+[character(name="char_263_skadi#3")]
+[name="斯卡蒂"]我有一个朋友被人带去了那里。
+[character(name="avg_npc_181")]
+[name="老何塞"]怪事。

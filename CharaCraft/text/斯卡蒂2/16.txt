@@ -1,0 +1,5 @@
+[Dialog]
+[Character]
+[name="斯卡蒂"]幽灵鲨！
+[Character(name="avg_1023_ghost2_1#4$1",name2="avg_npc_449_1#1$1",focus=2)]
+[name="阿玛雅"]......等你回想起我的名字，如果你还记得此刻，就来找我。

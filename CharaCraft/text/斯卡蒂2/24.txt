@@ -1,0 +1,11 @@
+[name="歌蕾蒂娅"]侥幸上岸之后，你有试过回到海洋吗？
+[Character(name="avg_474_gladiia_1#5",name2="char_263_skadi#7",focus=2)]
+[name="斯卡蒂"]当然，然后失败了。
+[name="斯卡蒂"]它们无穷无尽，包围着我，我只是游出去没多远就失去了力气。
+[name="斯卡蒂"]我试了很多很多次......
+[Character(name="avg_474_gladiia_1#1",name2="char_263_skadi#7",focus=1)]
+[name="歌蕾蒂娅"]但是你还活着。
+[Character(name="avg_474_gladiia_1#1",name2="char_263_skadi#4",focus=2)]
+[name="斯卡蒂"]......
+[Character(name="avg_474_gladiia_1#1",name2="char_263_skadi#4",focus=1)]
+[name="歌蕾蒂娅"]我们都清楚我们自己身上发生的变化，斯卡蒂。你也是。

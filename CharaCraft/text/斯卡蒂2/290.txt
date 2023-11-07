@@ -1,0 +1,5 @@
+[name="审判官"]我还不至于让一个普通人发现。咳，当然，即便不跟踪你，我也一样有法子找到这里！
+[character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#1",focus=2)]
+[name="斯卡蒂"]又是你。
+[character(name="avg_npc_182#2")]
+[name="审判官"]怎么，是怕了吗？

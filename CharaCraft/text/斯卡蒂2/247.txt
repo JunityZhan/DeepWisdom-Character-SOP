@@ -1,0 +1,13 @@
+[delay(time=1)]
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#1",focus=1)]
+[name="斯卡蒂"]我要走了。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=2)]
+[name="安妮塔"]咦？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]是她忍不住了，不关我的事。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#4",focus=2)]
+[name="安妮塔"]她......她是谁？你是说......审判官？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#4",focus=1)]
+[name="斯卡蒂"]总要让她试试的。
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]

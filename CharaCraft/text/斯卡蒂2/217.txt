@@ -1,0 +1,5 @@
+[name="安妮塔"]嗨，铁皮。嗨，墙灰。你们醒啦！
+[Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]（摸箱子）
+[character(name="avg_npc_178",name2="avg_npc_187",focus=2)]
+[name="男性居民B"]痛......

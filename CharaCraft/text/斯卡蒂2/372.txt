@@ -1,0 +1,17 @@
+[name="主教"]我只是问，她有没有让你来这里？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_184",focus=1)]
+[name="斯卡蒂"]没有。我是自己来的。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_184",focus=2)]
+[name="主教"]嗯，你没有说谎。我能听出谎言......但你是诚实的。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_184",focus=1)]
+[name="斯卡蒂"]问这问那，我却什么都还没说，你怎么能这么讨人厌？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_184",focus=2)]
+[name="主教"]消气，消气，歌手。我不是故意的。谨慎一点对我们都有好处。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_184",focus=1)]
+[name="斯卡蒂"]那我来问。
+[name="斯卡蒂"]这座城市里的人很信任你，但是，在海岸上发生的那些事——
+[name="斯卡蒂"]绝对不正常。
+[name="斯卡蒂"]乞食。恐鱼。海。
+[name="斯卡蒂"]你是哪里人？你是不是知道些什么？你和她对我隐瞒了什么？
+[dialog]
+[delay(time=1)]

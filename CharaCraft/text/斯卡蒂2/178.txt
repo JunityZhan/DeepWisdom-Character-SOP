@@ -1,0 +1,7 @@
+[delay(time=1)]
+[musicvolume(volume=0.4,fadetime=1)]
+[name="斯卡蒂"]一个坑，几条绳。外面那群泥点子的埋伏至少比这像样得多。
+[name="斯卡蒂"]你们，出来吧。
+[name="斯卡蒂"]我本来也找你们有事。麻烦快点。
+[dialog]
+[character]

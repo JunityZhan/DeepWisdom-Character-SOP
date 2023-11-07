@@ -1,0 +1,7 @@
+[delay(time=1)]
+三道水箭撞在剑身上，斯卡蒂被猛地上推数米，四溅的水花刺进了岩壁，穿射出了细小的孔洞......然后蒸发。
+[name="斯卡蒂"]它的水流比我工作台上用的水刀流速都快。
+[name="幽灵鲨"]它在看我们。
+[name="斯卡蒂"]想想办法，这东西会这么无限长下去吗？
+[dialog]
+[CameraShake(duration=0.8, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=false)]

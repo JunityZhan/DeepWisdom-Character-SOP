@@ -1,0 +1,5 @@
+[delay(time=2)]
+[character(name2="avg_1012_skadiSP_1#4",name="avg_npc_178",focus=2)]
+[name="斯卡蒂"]请问——
+[character(name2="avg_1012_skadiSP_1#4",name="avg_npc_178",focus=1)]
+[name="另一个男性居民"]（垂头不语）

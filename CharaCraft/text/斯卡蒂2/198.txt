@@ -1,0 +1,9 @@
+[PlayMusic(intro="$ponder_intro", key="$ponder_loop", volume=0.4)]
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_179#1",focus=1)]
+[name="斯卡蒂"]你好——
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_179#1",focus=2)]
+[name="老年居民"]你是谁？
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_179#1",focus=1)]
+[name="斯卡蒂"]流浪歌手。我想找一个人，她和我一样，也是从外面来的。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_179#3",focus=2)]
+[name="老年居民"]外面的——外面的人！你胡说！

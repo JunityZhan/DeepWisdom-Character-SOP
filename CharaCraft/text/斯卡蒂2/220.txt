@@ -1,0 +1,5 @@
+[name="安妮塔"]歌手，你不用怕。铁皮就是这样的人。他看着很凶，但也不会真的对我做什么。
+[Character(name="avg_npc_180#4", name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]哦？
+[Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=1)]
+[name="安妮塔"]好吧，我知道你不怕，你比他们厉害得多。

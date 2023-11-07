@@ -1,0 +1,5 @@
+[name="安妮塔"]就算有怪物也没啥......我好像并没有那么怕。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#1",focus=1)]
+[name="斯卡蒂"]嗯？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#1",focus=2)]
+[name="安妮塔"]审判官说，我不怕怪物，是因为我不知道怪物会对我做什么。

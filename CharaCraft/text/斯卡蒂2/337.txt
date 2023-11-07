@@ -1,0 +1,12 @@
+[name="安妮塔"]生活在外面的人，呃，是不是都会喝酒？大家是不是都很快乐？
+[Character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]未必。
+[Character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=2)]
+[name="安妮塔"]我懂了。那他们一定没有我现在这么快乐。歌手，谢谢你教我做这个酒。我真想马上就和你一起喝。
+[Character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]你的手势错了。
+[name="斯卡蒂"]这么碾的话，很难碾碎。你可以换个角度，用最尖的部分对准海藻的纹理。
+[name="斯卡蒂"]掌握韵律，调整呼吸......令你的手，你的身体，与触到你肌肤的海风融为一体。
+[name="斯卡蒂"]像这样——一击，即碎。
+[dialog]
+[character]

@@ -1,0 +1,6 @@
+[name="歌蕾蒂娅"]凯尔希，就像我们说好的那样。我不在，就由你带领他们。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_474_gladiia_1#1",focus=1)]
+[name="斯卡蒂"]你......？
+[name="斯卡蒂"]这是怎么回事？
+[dialog]
+[character]

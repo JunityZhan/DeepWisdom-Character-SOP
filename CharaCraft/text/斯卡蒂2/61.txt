@@ -1,0 +1,5 @@
+[name="幽灵鲨"]它发现了什么？
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]我们没时间——
+[dialog]
+[character(fadetime=0)]

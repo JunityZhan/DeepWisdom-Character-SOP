@@ -1,0 +1,5 @@
+[name="安妮塔"]这孩子真的很喜欢你，歌手。
+[Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]......
+[Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=1)]
+[name="安妮塔"]你们瞧，长凳也想让她留下来。

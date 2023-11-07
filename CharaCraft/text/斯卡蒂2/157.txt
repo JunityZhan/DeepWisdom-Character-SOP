@@ -1,0 +1,5 @@
+[name="老何塞"]上回那么大动静，不可能是为了那份骑士宝藏。
+[character(name="char_263_skadi#3")]
+[name="斯卡蒂"]你跟我说过，人该往前。
+[character(name="avg_npc_181")]
+[name="老何塞"]——

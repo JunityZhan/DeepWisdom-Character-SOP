@@ -1,0 +1,5 @@
+[name="安妮塔"]还有好久才入冬呢，我再勤快些，总能找到能用的料子的。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]这些贝肉......
+[dialog]
+[characteraction(name="left", type="move", xpos=200, fadetime=0.5, block=true)]

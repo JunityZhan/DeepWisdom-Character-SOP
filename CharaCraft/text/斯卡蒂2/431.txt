@@ -1,0 +1,5 @@
+[name="安妮塔"]还有你的琴，你昨天把琴落下了，我替你收着呢。
+[character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#4",focus=1)]
+[name="斯卡蒂"]送给你了。
+[character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#2",focus=2)]
+[name="安妮塔"]送给我......我们那个约定？这么说，你真的找到你的同伴啦？真好，歌手，我好高兴！

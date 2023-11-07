@@ -1,0 +1,5 @@
+[name="安妮塔"]毕竟......那是审判官。
+[character(name="avg_1012_skadiSP_1#7",name2="avg_npc_180#1",focus=1)]
+[name="斯卡蒂"]哦。
+[character(name="avg_1012_skadiSP_1#7",name2="avg_npc_180#4",focus=2)]
+[name="安妮塔"]嘘，歌手，别惹她，她看起来可不大高兴。

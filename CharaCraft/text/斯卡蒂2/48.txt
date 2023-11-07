@@ -1,0 +1,9 @@
+[delay(time=1)]
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]雕塑？
+[Character(name="avg_1023_ghost2_1#2$1")]
+[name="幽灵鲨"]嗯，我们一边欢迎死者，一边找找它藏身的地方吧，斯卡蒂。
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]真高兴你还记得我的名字。
+[Dialog]
+[stopmusic(fadetime=3)]

@@ -1,0 +1,5 @@
+[PlaySound(key="$swordtsing1", volume=0.9)]
+[CameraShake(duration=0.5, xstrength=8, ystrength=6, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="斯卡蒂"]——唔！
+[Character(name="avg_npc_456_1#1$1")]
+[name="海嗣"]Ishar-mla，祂在哪里？

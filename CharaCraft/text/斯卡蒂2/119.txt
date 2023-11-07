@@ -1,0 +1,7 @@
+[name="海嗣"]你流淌着我们的血，你流淌着祂的血，你就是祂。
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]......不。
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]我是深海猎人，斯卡蒂。
+[Character(name="avg_npc_455_1#1$1")]
+[name="海嗣"]无妨。你说是，那么你就是。深海猎人，Ska-di。

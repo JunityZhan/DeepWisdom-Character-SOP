@@ -1,0 +1,11 @@
+[name="幽灵鲨"]海风中夹杂着亲缘的馈赠，让我......很安心。
+[Character(name="char_263_skadi#3")]
+[name="斯卡蒂"]越接近海洋，她越是这样。
+[Character(name="char_263_skadi#7")]
+[name="斯卡蒂"]在盐风城的时候她明明......
+[Character(name="avg_474_gladiia_1#1")]
+[name="歌蕾蒂娅"]......
+[Character(name="avg_474_gladiia_1#1",name2="char_263_skadi#9",focus=2)]
+[name="斯卡蒂"]你知道原因吗？
+[Character(name="avg_474_gladiia_1#5",name2="char_263_skadi#9",focus=1)]
+[name="歌蕾蒂娅"]我的猜测只会干扰你的判断，我们的眼前是战斗。

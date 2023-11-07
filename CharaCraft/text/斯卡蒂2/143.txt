@@ -1,0 +1,11 @@
+[name="？？？"]再不过来，我们可就要走了。
+[character(name="char_263_skadi#5")]
+[name="斯卡蒂"]猎人！你是谁？
+斯卡蒂一跃，转过角落，她不自主地摸索起身上能用的武器。
+[character(name="char_263_skadi#5")]
+[name="斯卡蒂"]——你在做什么？
+那一刻她竟先直视了对方的双眼。
+[character(name="char_263_skadi#5")]
+[name="斯卡蒂"]......等等，你是......
+一个自己没有想过的人。
+[dialog]

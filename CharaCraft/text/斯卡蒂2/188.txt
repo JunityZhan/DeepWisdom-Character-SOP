@@ -1,0 +1,5 @@
+[name="女性居民"]这里不常见陌生面孔。你是从外面来的么？
+[Character(name="avg_npc_180#2",name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]我从其他伊比利亚城市来的。
+[Character(name="avg_npc_180#1",name2="avg_1012_skadiSP_1#4",focus=1)]
+[name="女性居民"]我很少见到别的地方来的人。

@@ -1,0 +1,8 @@
+[name="幽灵鲨"]我们回家了吗？
+[Character(name="avg_1023_ghost2_1#4$1",name2="char_263_skadi#4",focus=2)]
+[name="斯卡蒂"]不，还没有。
+[name="斯卡蒂"]但如果我们在这里找到了凯尔希和二队长要找的，也许可以。
+[Character(name="avg_1023_ghost2_1#4$1",name2="char_263_skadi#9",focus=2)]
+[name="斯卡蒂"]忍耐一下吧......就快了。
+[dialog]
+[Character]

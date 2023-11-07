@@ -1,0 +1,5 @@
+[name="幼年居民"]呜哇......
+[character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]......别啃。不能吃。
+[dialog]
+[character]

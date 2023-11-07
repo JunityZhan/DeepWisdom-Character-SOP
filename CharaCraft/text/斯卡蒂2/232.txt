@@ -1,0 +1,5 @@
+[character(name="avg_1012_skadiSP_1#1",fadetime=1)]
+[delay(time=1.5)]
+[name="斯卡蒂"]一路跟着的，我以为是别人。
+[PlayMusic(intro="$suspenseful_intro", key="$suspenseful_loop", volume=0.4)]
+[character(name="avg_npc_178",name2="avg_npc_187",focus=2)]

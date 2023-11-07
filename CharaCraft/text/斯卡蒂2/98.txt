@@ -1,0 +1,11 @@
+[name="海嗣"]咕噜噜......Ishar-mla，你们，捕食。
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]......闭嘴。
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]杀死猎物不需要这么多废话，这是我们的任务。
+[Character(name="avg_npc_456_1#1$1")]
+[name="海嗣"]......
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]——阻止它！它要跳进海里了！
+[Character(name="avg_npc_446_1#3$1")]
+[name="船长阿方索"]想逃？！

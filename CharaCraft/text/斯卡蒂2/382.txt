@@ -1,0 +1,5 @@
+[name="海嗣"]Ishar-mla，我的姐妹。
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]什么......？
+[character(name="avg_npc_184")]
+[name="主教"]......

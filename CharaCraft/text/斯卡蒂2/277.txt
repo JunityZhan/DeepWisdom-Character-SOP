@@ -1,0 +1,5 @@
+[name="审判官"]接受这一剑，这就是对你的罪行的审判！
+[character(name="avg_1012_skadiSP_1#7")]
+[name="斯卡蒂"]......麻烦。
+[dialog]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]

@@ -1,0 +1,6 @@
+[name="安妮塔"]歌手，再见！
+[character(name="avg_1012_skadiSP_1#3")]
+[name="斯卡蒂"]——
+[name="斯卡蒂"]再见。
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]

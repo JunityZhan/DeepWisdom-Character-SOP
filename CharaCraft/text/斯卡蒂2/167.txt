@@ -1,0 +1,5 @@
+[name="老何塞"]去你想去的地方吧，歌手。沿着地图，走水路，用不上多久就能到。你的话是能的，阿戈尔人。
+[character(name="char_263_skadi#3")]
+[name="斯卡蒂"]再见了，何塞先生。
+[character(name="avg_npc_181")]
+[name="老何塞"]斯卡蒂！

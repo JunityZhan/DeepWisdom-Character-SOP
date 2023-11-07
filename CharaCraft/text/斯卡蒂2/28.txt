@@ -1,0 +1,5 @@
+[Characteraction(name="right", type="move", xpos=-200,fadetime=1,block=true)]
+[Delay(time=1)]
+[name="斯卡蒂"]你在做什么？
+[Dialog]
+[Character(name="avg_1023_ghost2_1#4$1",name2="char_263_skadi#3",focus=1)]

@@ -1,0 +1,5 @@
+[name="老何塞"]我把这一瓶都留给你。你把它喝完，试着和我一样哭一场，然后好好睡一觉。
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=1)]
+[name="斯卡蒂"]没什么用，我都试过。
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=2)]
+[name="老何塞"]真做梦去吧，猎人。对你来说，梦或许比较真。搞不好，梦里能有一些线索——比方说，只属于你的，呃，藏宝图？

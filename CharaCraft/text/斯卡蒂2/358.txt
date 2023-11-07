@@ -1,0 +1,5 @@
+[delay(time=1)]
+[character(name="avg_474_gladiia_1#4",name2="avg_1012_skadiSP_1#1",focus=2)]
+[name="斯卡蒂"]你在和我装神弄鬼？他是什么人？！
+[character(name="avg_474_gladiia_1#3",name2="avg_1012_skadiSP_1#1",focus=1)]
+[name="歌蕾蒂娅"]我说了你就会信吗？

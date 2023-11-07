@@ -1,0 +1,19 @@
+[name="老何塞"]唉。要再见了，索性多废几句话。你之后准备往哪里去？
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=1)]
+[name="斯卡蒂"]......我不知道。
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=2)]
+[name="老何塞"]还要像过去那样，漂来漂去，接些不痛不痒的任务，应付一波又一波敌不上你一根手指的敌人，就像活在一个永远醒不来的梦里？
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=1)]
+[name="斯卡蒂"]......
+[dialog]
+斯卡蒂仰头痛饮。但酒精似乎对她毫无作用。
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=1)]
+[name="斯卡蒂"]......
+[name="斯卡蒂"]那你说，我能去哪里？
+[name="斯卡蒂"]你们做赏金猎人，都是为了挣钱，为了生活。
+[name="斯卡蒂"]可我早就什么都没了。
+[name="斯卡蒂"]蛮荒，无序。连自动马桶都没有。我不想待在这里，这里也不需要我。我为什么要在这里？
+[name="斯卡蒂"]脆弱，无知。明明又贪婪又怕死，也不了解我，在它们找来的时候，却不肯自己躲开。
+[name="斯卡蒂"]......我想不明白。
+[dialog]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]

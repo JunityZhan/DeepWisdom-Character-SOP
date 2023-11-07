@@ -1,0 +1,5 @@
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[Character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]什么？
+[character(name="avg_npc_184")]
+[name="主教"]最近他们没空管你，但拜你这位队长所赐，你到了这里，简直是送给我的礼物。

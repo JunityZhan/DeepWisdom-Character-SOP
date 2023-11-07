@@ -1,0 +1,10 @@
+[name="安妮塔"]歌手，你是从外面来的。我跟着你，其实我有许许多多问题......我想知道，铁皮他说的是真的吗？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#4",focus=1)]
+[name="斯卡蒂"]或许。
+[name="斯卡蒂"]去外面的话，你会死掉。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#1",focus=2)]
+[name="安妮塔"]呼......原来是真的啊......
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#1",focus=1)]
+[name="斯卡蒂"]你并没有失望。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#1",focus=2)]
+[name="安妮塔"]歌手，我想，有机会的话，我要去看看。

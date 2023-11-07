@@ -1,0 +1,5 @@
+[name="安妮塔"]哎！
+[character(name="avg_1012_skadiSP_1#3")]
+[name="斯卡蒂"]下一次遇见，如果是在外面，我也会为你唱歌的。
+[character(name="avg_npc_180#3")]
+[name="安妮塔"]对哦！这么看来，我可得把你的琴一块放进盒子里啦。

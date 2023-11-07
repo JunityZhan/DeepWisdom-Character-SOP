@@ -1,0 +1,13 @@
+[name="女性居民"]你怎么一眨眼就跑这里来了？
+[Character(name="avg_1012_skadiSP_1#7", name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]有人在看。
+[Character(name="avg_1012_skadiSP_1#7", name2="avg_npc_180#4",focus=2)]
+[name="女性居民"]是吗？哪里呀？我怎么没瞧见。
+[Character(name="avg_1012_skadiSP_1#7", name2="avg_npc_180#4",focus=1)]
+[name="斯卡蒂"]那个人藏得很好。只是，还不够好。
+[Character(name="avg_1012_skadiSP_1#7", name2="avg_npc_180#2",focus=2)]
+[name="女性居民"]你为什么这么严肃？你不是个流浪歌手么？要表演的话，应该很习惯被别人盯着看吧？
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]......你说得对。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=2)]
+[name="女性居民"]那我们过去吧！佩特拉奶奶精神不错，说不定你真能问到些什么。

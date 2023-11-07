@@ -1,0 +1,5 @@
+[name="男性居民A"]我们的东西，你不许抢。
+[Character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]嗯？
+[characteraction(name="right", type="move",xpos=50, fadetime=0.8, block=false)]
+[delay(time=1)]

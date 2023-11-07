@@ -1,0 +1,5 @@
+[name="老何塞"]......你这混球！你就一直这个性子？你连一句好话都说不出来，那坏话总能讲点吧？！
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=1)]
+[name="斯卡蒂"]这里的语言到现在我都不太会。
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=2)]
+[name="老何塞"]不对。你就是不肯和别人说你当他们是朋友。

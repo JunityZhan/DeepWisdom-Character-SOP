@@ -1,0 +1,5 @@
+[name="歌蕾蒂娅"]它想逃！唔！
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]脚下！
+[character(fadetime=0)]
+[dialog]

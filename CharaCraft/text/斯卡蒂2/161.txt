@@ -1,0 +1,9 @@
+[name="老何塞"]拿好。地图。
+[character(name="char_263_skadi#3")]
+[name="斯卡蒂"]好。我要给你什么？
+[character(name="avg_npc_181")]
+[name="老何塞"]给我什么？
+[character(name="char_263_skadi#3")]
+[name="斯卡蒂"]你卖情报。一物换一物。你给了我信息，我给你你需要的。
+[character(name="avg_npc_181")]
+[name="老何塞"]（弹烟灰）

@@ -1,0 +1,10 @@
+[Delay(time=1)]
+[Character(name="avg_474_gladiia_1#1",name2="char_263_skadi#3",focus=2)]
+[name="斯卡蒂"]这里，到处都是。
+[name="斯卡蒂"]比盐风城好一些，但也很古怪。
+[Character(name="avg_474_gladiia_1#4",name2="char_263_skadi#3",focus=1)]
+[name="歌蕾蒂娅"]这里并没有沉入腐坏，看看这些人，他们甚至还在正常地生活。
+[Character(name="avg_474_gladiia_1#4",name2="char_263_skadi#4",focus=2)]
+[name="斯卡蒂"]......海浪没有触碰到这里。
+[Character(name="avg_474_gladiia_1#1",name2="char_263_skadi#4",focus=1)]
+[name="歌蕾蒂娅"]那么，那些深海的余孽就是躲藏了起来。

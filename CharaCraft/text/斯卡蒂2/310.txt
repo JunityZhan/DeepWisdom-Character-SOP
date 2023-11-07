@@ -1,0 +1,5 @@
+[name="安妮塔"]歌手，你真厉害，连伤都好得这么快。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#1",focus=1)]
+[name="斯卡蒂"]还是慢了些。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#1",focus=2)]
+[name="安妮塔"]伤是还行，你的模样却不太好。你刚才挑的房子都给轰烂啦，就连你也没法好好躺下吧？我看你还是跟我还有佩特拉奶奶一块回去吧。

@@ -1,0 +1,9 @@
+[name="男性居民A"]你想去海里。
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]我只在这附近走走。
+[character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
+[name="男性居民A"]海里有什么？
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]什么都没有。
+[character(name="avg_npc_178",name2="avg_npc_187",focus=1)]
+[name="男性居民A"]这不可能。

@@ -1,0 +1,9 @@
+[name="审判官"]你、你什么意思？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#4",focus=1)]
+[name="斯卡蒂"]不要出声。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#4",focus=2)]
+[name="审判官"]放开我，你这个阿戈尔混蛋，你别以为按着我的手我就没办法用剑，我还有手炮——
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#4",focus=1)]
+[name="斯卡蒂"]别吵。它们会发现。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#3",focus=2)]
+[name="审判官"]唔唔唔......另一只手也......动不了......

@@ -1,0 +1,5 @@
+[name="歌蕾蒂娅"]凯尔希女士？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_474_gladiia_1#1",focus=1)]
+[name="斯卡蒂"]......医生？
+[character(name="avg_npc_183#3")]
+[name="大审判官"]所以你希望我把这几个人驱逐出境？

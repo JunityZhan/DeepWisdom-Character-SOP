@@ -1,0 +1,9 @@
+[name="安妮塔"]到了第二天早上，海岸上就会铺满食物。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#1",focus=1)]
+[name="斯卡蒂"]那个人呢？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=2)]
+[name="安妮塔"]去海里生活了。就像律法说的那样。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]你们这也信？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#4",focus=2)]
+[name="安妮塔"]不然你想他去哪里？

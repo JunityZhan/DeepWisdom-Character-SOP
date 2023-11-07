@@ -1,0 +1,9 @@
+[delay(time=1)]
+[character(name="char_016_medic",name2="char_263_skadi#8",focus=2)]
+[name="斯卡蒂"]......
+[character(name="char_016_medic",name2="char_263_skadi#8",focus=1)]
+[name="罗德岛干员"]你的脸色一下子就变了，发生什么了？
+[character(name="char_016_medic",name2="char_263_skadi#8",focus=2)]
+[name="斯卡蒂"]可能是。
+[character(name="char_016_medic",name2="char_263_skadi#8",focus=1)]
+[name="罗德岛干员"]啊？在这里？船上吗？难道是入侵者？！听人说你五感特别敏锐，难道是......

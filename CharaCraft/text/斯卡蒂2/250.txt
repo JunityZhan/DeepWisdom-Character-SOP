@@ -1,0 +1,13 @@
+[character(name="avg_1012_skadiSP_1#1",fadetime=1)]
+[delay(time=1.5)]
+[name="斯卡蒂"]我就住这里。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=2)]
+[name="安妮塔"]这房子？这房子可很久没住过人哩。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]我不在乎。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=2)]
+[name="安妮塔"]别说床铺，这里连个平整些的角落都难找。躺不下去的话，你怎么睡觉？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]站着，坐着，无所谓。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#2",focus=2)]
+[name="安妮塔"]好厉害......

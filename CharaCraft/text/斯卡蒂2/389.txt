@@ -1,0 +1,9 @@
+[name="海嗣"]我们不去阿戈尔城市。
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]那么多的城市都被你们毁了！
+[Character(name="avg_npc_186")]
+[name="海嗣"]那些城市在我们领地。
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]呵，即使在阿戈尔腹地的城市，也会有人被你们捕猎！
+[Character(name="avg_npc_186")]
+[name="海嗣"]不......不。

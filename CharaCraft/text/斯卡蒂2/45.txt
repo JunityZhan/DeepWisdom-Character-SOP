@@ -1,0 +1,5 @@
+[delay(time=2)]
+[Character(name="char_263_skadi#6")]
+[name="斯卡蒂"]......什么......
+[Character(name="avg_4009_irene_1#4$1")]
+[name="审判官艾丽妮"]它躲到了船舱里！我们要追吗？

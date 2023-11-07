@@ -1,0 +1,9 @@
+[name="审判官艾丽妮"]我们......我们该怎么办？
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]我没想过这里还有活人。我以为宰掉一些恐鱼，我们就能夺回这艘船。二队长说得挺简单的。
+[Character(name="avg_1023_ghost2_1#12$1")]
+[name="幽灵鲨"]......
+[Character(name="char_263_skadi#2")]
+[name="斯卡蒂"]......幽灵鲨，你在看什么？
+[Character(name="avg_1023_ghost2_1#12$1")]
+[name="幽灵鲨"]镜子。

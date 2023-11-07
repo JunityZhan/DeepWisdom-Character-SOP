@@ -1,0 +1,5 @@
+[name="男性居民B"]他昨天夜里看到你把这东西掉在了外面。
+[Character(name="avg_1012_skadiSP_1#4",name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]......
+[Character(name="avg_1012_skadiSP_1#4",name2="avg_npc_180#3",focus=2)]
+[name="安妮塔"]哎呀，太好了！歌手，我们不用去找琴了！

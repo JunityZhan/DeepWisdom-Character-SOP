@@ -1,0 +1,5 @@
+[name="凯尔希"]你已经做得比以前好太多了。
+[character(name="avg_1012_skadiSP_1",name2="char_003_kalts_1",focus=1)]
+[name="斯卡蒂"]我没想到你真的会来帮助我......
+[character(name="avg_1012_skadiSP_1",name2="char_003_kalts_1",focus=2)]
+[name="凯尔希"]我说过的，“我言而有信”。无论你做什么。

@@ -1,0 +1,5 @@
+[name="主教"]确实，我知道有人想见你的。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_184",focus=1)]
+[name="斯卡蒂"]见我？因为我是个吟游歌手？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_184",focus=2)]
+[name="主教"]在乎音乐的是我。

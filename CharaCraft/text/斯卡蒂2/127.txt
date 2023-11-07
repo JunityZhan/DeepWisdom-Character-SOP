@@ -1,0 +1,5 @@
+[name="歌蕾蒂娅"]......我们似乎别无选择。
+[Character(name="char_263_skadi#6")]
+[name="斯卡蒂"]为什么！？
+[Character(name="avg_474_gladiia_1#1")]
+[name="歌蕾蒂娅"]这里不该有一座城市。

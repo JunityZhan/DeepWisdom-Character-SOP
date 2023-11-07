@@ -1,0 +1,5 @@
+[name="安妮塔"]佩特拉奶奶？
+[Character(name="avg_1012_skadiSP_1#4",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]她怎么了？
+[Character(name="avg_1012_skadiSP_1#4",name2="avg_npc_180#3",focus=2)]
+[name="安妮塔"]她......睡着了。

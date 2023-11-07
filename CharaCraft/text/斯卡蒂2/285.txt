@@ -1,0 +1,12 @@
+[name="审判官"]你......你！你竟然毫发无伤！这怎么会？我明明都瞄准了！
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]还要继续么？
+[name="斯卡蒂"]你的武器。你使用起来并不轻松。
+[name="斯卡蒂"]否则，你现在不会同我说话。你应该瞄准第二次。
+[character(name="avg_npc_182#5")]
+[name="审判官"]我......
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]你说的话，我听不懂，也不关心。
+[name="斯卡蒂"]我不想......
+[dialog]
+[character]

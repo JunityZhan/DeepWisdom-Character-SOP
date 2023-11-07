@@ -1,0 +1,9 @@
+[name="女性居民"]而且他们，呃，很少说话。就算知道，他们也不懂怎么回答。
+[Character(name="avg_npc_180#4",name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]你理我了。
+[Character(name="avg_npc_180#3",name2="avg_1012_skadiSP_1#4",focus=1)]
+[name="女性居民"]......可能因为我这人有点怪，我和大家都不太一样。
+[Character(name="avg_npc_180#3",name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]你的话说得也比他们好很多。
+[Character(name="avg_npc_180#3",name2="avg_1012_skadiSP_1#4",focus=1)]
+[name="女性居民"]是这样吗？我好高兴。这都是佩特拉奶奶教我的。

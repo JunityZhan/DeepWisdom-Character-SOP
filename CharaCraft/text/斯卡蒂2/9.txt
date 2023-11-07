@@ -1,0 +1,5 @@
+[name="歌蕾蒂娅"]......照顾好她，斯卡蒂。我并不习惯她现在的样子。
+[Character(name="avg_474_gladiia_1#1",name2="char_263_skadi#9",focus=2)]
+[name="斯卡蒂"]不用你说。
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]

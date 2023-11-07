@@ -1,0 +1,8 @@
+[name="安妮塔"]你愿意再唱一遍吗？我想听你说更多。
+[Character(name="avg_1012_skadiSP_1#4",name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]......
+[dialog]
+[Character(name="avg_1012_skadiSP_1#5")]
+[name="斯卡蒂"]（拨琴）
+[dialog]
+[PlayMusic(intro="$suspenseful_intro", key="$suspenseful_loop", volume=0.4)]

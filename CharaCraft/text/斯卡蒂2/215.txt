@@ -1,0 +1,5 @@
+[name="女性居民"]我们去找吃的去。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]呃......
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=2)]
+[name="女性居民"]是我跑得太快了吗？我忘了你还不认识路。

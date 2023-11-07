@@ -1,0 +1,7 @@
+[name="安妮塔"]你还会回到这里吗？我......还有佩特拉奶奶，墙灰，我们都还想听你弹琴唱歌。
+[character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]......
+[name="斯卡蒂"]我会的。
+[name="斯卡蒂"]还有我的同伴，我们可以一起。
+[character(name="avg_1012_skadiSP_1#3",name2="avg_npc_180#3",focus=2)]
+[name="安妮塔"]哇，那真是太好啦！

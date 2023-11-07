@@ -1,0 +1,6 @@
+[name="安妮塔"]歌手，佩特拉奶奶想听呢。
+[Character(name="avg_1012_skadiSP_1#4",name2="avg_npc_180#3",focus=1)]
+[name="斯卡蒂"]......
+[name="斯卡蒂"]好。
+[dialog]
+[stopmusic(fadetime=1)]

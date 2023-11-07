@@ -1,0 +1,5 @@
+[name="歌蕾蒂娅"]动起来，猎人，在太阳落山之前结束，听不见海声的恐鱼只是一些低等生物。
+[Character(name="avg_474_gladiia_1#1",name2="char_263_skadi#3",focus=2)]
+[name="斯卡蒂"]好。
+[Character(name="avg_1023_ghost2_1#2$1")]
+[name="幽灵鲨"]你......歌蕾蒂娅？你来了，那我听你的。

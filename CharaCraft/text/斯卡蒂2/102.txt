@@ -1,0 +1,7 @@
+[PlayMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.8, crossfade=1, delay=0.5)]
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]......队长和歌蕾蒂娅，他们追进海里了。
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]我们得去帮他们。
+[Character(name="avg_1023_ghost2_1#1$1")]
+[name="幽灵鲨"]不，在这待着比较好。海水躁动不安，海嗣的气味混杂在一起，也许不止那一只。

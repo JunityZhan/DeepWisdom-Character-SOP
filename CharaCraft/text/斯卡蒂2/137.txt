@@ -1,0 +1,5 @@
+难道她醒了？她不禁加快了脚步。
+[Dialog]
+[name="斯卡蒂"]幽灵鲨！
+[delay(time=0.7)]
+[dialog]

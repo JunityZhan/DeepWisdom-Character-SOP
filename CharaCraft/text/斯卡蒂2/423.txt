@@ -1,0 +1,5 @@
+[name="凯尔希"]猎人们，快走！
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]怎么是你？！
+[character(name="char_003_kalts_1")]
+[name="凯尔希"]之后再说！Mon3tr，去！

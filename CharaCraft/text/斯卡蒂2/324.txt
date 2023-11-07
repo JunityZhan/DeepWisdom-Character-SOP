@@ -1,0 +1,5 @@
+[name="安妮塔"]你看那一块，很高。我有时候会爬上去。因为风更大，我能看得更远。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#4",focus=1)]
+[name="斯卡蒂"]你好奇外面。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#4",focus=2)]
+[name="安妮塔"]我不知道。我......我有时候会想外面是什么样子的。这很没意义，我懂，他们都这么说，所以我只敢一个人偷偷想。

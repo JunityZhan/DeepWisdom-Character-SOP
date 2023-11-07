@@ -1,0 +1,6 @@
+[name="老何塞"]可别死在那。好歹死在认识的人旁边。
+[character(name="char_263_skadi#3")]
+[name="斯卡蒂"]......
+[name="斯卡蒂"]嗯。
+[Dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]

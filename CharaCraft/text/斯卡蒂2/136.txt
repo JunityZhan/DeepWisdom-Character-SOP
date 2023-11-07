@@ -1,0 +1,14 @@
+[name="罗德岛干员"]不对啊，如果船上有危险，警报会响起来吧？
+[character(name="char_016_medic",name2="char_263_skadi#8",focus=2)]
+[name="斯卡蒂"]......歌声。
+[character(name="char_016_medic",name2="char_263_skadi#8",focus=1)]
+[name="罗德岛干员"]歌？什么歌？呃，很安静啊，我没听见......
+[character(name="char_016_medic",name2="char_263_skadi#8",focus=2)]
+[name="斯卡蒂"]这里，为什么会有歌声？
+[character(name="char_016_medic",name2="char_263_skadi#8",focus=1)]
+[name="罗德岛干员"]确实好像有些嗡嗡声，但那也不是歌吧？罗德岛上的各类仪器都还在运转，有可能是，是机械振动？你还没太习惯吗？
+[character(name="char_016_medic",name2="char_263_skadi#8",focus=2)]
+[name="斯卡蒂"]不，气味。
+[name="斯卡蒂"]海水的味道。
+[Dialog]
+[character]

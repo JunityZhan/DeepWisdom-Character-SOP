@@ -1,0 +1,5 @@
+[name="主教"]尤其是你身边的人。他们处理得很好，让你的精神状态保持在这种感觉。
+[Character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]——
+[dialog]
+[Blocker(a=0.6, r=0, g=0, b=0, fadetime=0.5, block=true)]

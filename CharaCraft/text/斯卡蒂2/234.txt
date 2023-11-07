@@ -1,0 +1,13 @@
+[Delay(time=1)]
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]别过来。
+[character(name="avg_npc_178")]
+[name="男性居民A"]过来又怎样？像刚才一样，你把我们都打趴下？
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]......
+[character(name="avg_npc_178")]
+[name="男性居民A"]海里有东西，对不对？
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]不要动。
+[dialog]
+[Blocker(a=0, r=255,g=255, b=255, fadetime=0, block=true)]

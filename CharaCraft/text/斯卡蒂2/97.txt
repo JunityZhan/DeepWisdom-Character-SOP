@@ -1,0 +1,5 @@
+[Character(name="char_263_skadi#8",fadetime=1)]
+[delay(time=1)]
+[name="斯卡蒂"]——在这里！
+[Character(name="avg_npc_456_1#1$1")]
+[name="海嗣"]Ishar——

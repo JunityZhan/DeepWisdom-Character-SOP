@@ -1,0 +1,5 @@
+[name="罗德岛干员"]关于任务中的细节，如果博士有疑问，会再找你确认。
+[character(name="char_016_medic",name2="char_263_skadi#5",focus=2)]
+[name="斯卡蒂"]......博士？
+[character(name="char_016_medic",name2="char_263_skadi#5",focus=1)]
+[name="罗德岛干员"]是的，凯尔希医生说你也许不会想向她提交报告......她还说阿米娅对你太温柔了，这样下去是不行的......之类。

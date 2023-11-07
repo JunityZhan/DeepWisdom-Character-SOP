@@ -1,0 +1,10 @@
+[name="恐鱼"]（诡异的窸窣声）
+[Character(name="avg_474_gladiia_1#1",name2="char_263_skadi#3",focus=2)]
+[name="斯卡蒂"]数量......不算多。
+[name="斯卡蒂"]海，这里已经看不见海岸了。
+[Character(name="avg_474_gladiia_1#1",name2="char_263_skadi#3",focus=1)]
+[name="歌蕾蒂娅"]怀念吗？
+[Character(name="avg_474_gladiia_1#1",name2="char_263_skadi#4",focus=2)]
+[name="斯卡蒂"]不......只是在说，我们不能流血。在这里，会很危险。
+[Character(name="avg_474_gladiia_1#1",name2="char_263_skadi#4",focus=1)]
+[name="歌蕾蒂娅"]它们还刺不穿我们的肌肤。只要不停下你的舞步，这些数量，还不足以杀死我们。

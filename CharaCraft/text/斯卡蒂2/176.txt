@@ -1,0 +1,13 @@
+[Character(name="char_empty",name2="avg_1012_skadiSP_1#4",fadetime=0.7)]
+[delay(time=2)]
+[name="斯卡蒂"]一个......孩子？他在念一个数字。
+[name="斯卡蒂"]我不会听错。
+[dialog]
+[character(name="avg_1012_skadiSP_1#7")]
+[CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
+[name="斯卡蒂"]你——
+[name="斯卡蒂"]我的项链被......
+[character(name="avg_1012_skadiSP_1#6")]
+[name="斯卡蒂"]你不能走！
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]

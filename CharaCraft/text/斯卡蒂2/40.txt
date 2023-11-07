@@ -1,0 +1,5 @@
+[name="幽灵鲨"]生命的地毯，啊......陆地上最美的地毯。
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]（溟痕确实在扩散，这样的话......）
+[Dialog]
+[Character]

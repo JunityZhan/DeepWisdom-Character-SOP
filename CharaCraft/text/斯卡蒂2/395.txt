@@ -1,0 +1,9 @@
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[delay(time=1)]
+[name="斯卡蒂"]我杀了它。
+[Character(name="avg_npc_186")]
+[name="海嗣"]你没有。
+[character(name="avg_1012_skadiSP_1#2")]
+[name="斯卡蒂"]我杀了......
+[dialog]
+[musicvolume(volume=0,fadetime=1)]

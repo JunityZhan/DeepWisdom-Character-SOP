@@ -1,0 +1,13 @@
+[name="歌蕾蒂娅"]你是个好舞伴。
+[character(name="avg_474_gladiia_1#1",name2="avg_1012_skadiSP_1#1",focus=2)]
+[name="斯卡蒂"]她在哪里？
+[character(name="avg_474_gladiia_1#4",name2="avg_1012_skadiSP_1#1",focus=1)]
+[name="歌蕾蒂娅"]你很关心她。
+[character(name="avg_474_gladiia_1#4",name2="avg_1012_skadiSP_1#1",focus=2)]
+[name="斯卡蒂"]不然呢？
+[character(name="avg_474_gladiia_1#1",name2="avg_1012_skadiSP_1#1",focus=1)]
+[name="歌蕾蒂娅"]她现在还算安全。
+[character(name="avg_474_gladiia_1#1",name2="avg_1012_skadiSP_1#1",focus=2)]
+[name="斯卡蒂"]证据。
+[character(name="avg_474_gladiia_1#5",name2="avg_1012_skadiSP_1#1",focus=1)]
+[name="歌蕾蒂娅"]你需要那些无用的东西么？

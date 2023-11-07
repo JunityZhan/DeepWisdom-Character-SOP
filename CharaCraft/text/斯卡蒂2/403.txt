@@ -1,0 +1,15 @@
+[name="歌蕾蒂娅"]斯卡蒂，动得了吗？
+[character(name="avg_1012_skadiSP_1#2")]
+[name="斯卡蒂"]我不清楚。克制那种感觉......难。我好难不去想那些东西。
+[name="斯卡蒂"]我的手指没法动。我一动，我的指甲就好像都会从我手上游走。
+[character(name="avg_474_gladiia_1#4")]
+[name="歌蕾蒂娅"]神经细胞在急速新陈代谢，始终记住，你是个猎人，它们动不了你。
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]这么想有用？
+[character(name="avg_474_gladiia_1#4")]
+[name="歌蕾蒂娅"]你不想成为海嗣，你就不会。
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]好。
+[name="斯卡蒂"]我想......我能拿起武器。
+[dialog]
+[character]

@@ -1,0 +1,6 @@
+[name="审判官艾丽妮"]这么说，你要找的答案，找到了？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#1",focus=1)]
+[name="斯卡蒂"]也用不上了。
+[name="斯卡蒂"]问题问得够多了。真知道了答案，冷静下来，发现也没什么。就跟你说的那样，现在我明白自己该往哪里去。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_182#5",focus=2)]
+[name="审判官艾丽妮"]哦？看来，我们都准备好了。

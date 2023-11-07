@@ -1,0 +1,9 @@
+[name="幽灵鲨"]哦，不过这一身是队长让罗德岛的朋友们帮我订做的？她竟然知道具体的尺寸。
+[Character(name="char_263_skadi#5")]
+[name="斯卡蒂"]......实际上，你甚至还长高了一点。
+[Character(name="avg_1023_ghost2_1#12$1")]
+[name="幽灵鲨"]你也知道？
+[Character(name="char_263_skadi#9")]
+[name="斯卡蒂"]我......我只是帮了忙。二队长说她信不过陆上人的品味。
+[Character(name="avg_1023_ghost2_1#1$1")]
+[name="幽灵鲨"]品味？呵呵......

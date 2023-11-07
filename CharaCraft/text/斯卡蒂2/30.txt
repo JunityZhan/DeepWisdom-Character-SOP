@@ -1,0 +1,5 @@
+[name="歌蕾蒂娅"]这里太安静了。
+[Character(name="avg_474_gladiia_1#1",name2="char_263_skadi#8",focus=2)]
+[name="斯卡蒂"]明明都是恶臭。
+[Character(name="avg_474_gladiia_1#4",name2="char_263_skadi#8",focus=1)]
+[name="歌蕾蒂娅"]是，礁石上满是溟痕的残留，能看见一些人造物的痕迹，大都腐朽了。

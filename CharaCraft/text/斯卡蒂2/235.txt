@@ -1,0 +1,6 @@
+[name="男性居民A"]它怎么......还会动？！
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]逃吧，回城去。动作要快。
+[name="斯卡蒂"]——记得把我的琴留下。
+[Dialog]
+[Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]

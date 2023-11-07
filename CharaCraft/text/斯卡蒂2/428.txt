@@ -1,0 +1,10 @@
+[name="歌蕾蒂娅"]走吧，猎人们。交给她了。她还算可以。
+[character(name="avg_1012_skadiSP_1",name2="avg_474_gladiia_1#1",focus=1)]
+[name="斯卡蒂"]......
+[name="斯卡蒂"]等等，二队长，我还想和她说些话。
+[dialog]
+[character]
+[character(name="avg_1012_skadiSP_1",name2="char_003_kalts_1",focus=1)]
+[name="斯卡蒂"]凯尔希女士。
+[character(name="avg_1012_skadiSP_1",name2="char_003_kalts_1",focus=2)]
+[name="凯尔希"]又一次私自出动，斯卡蒂。

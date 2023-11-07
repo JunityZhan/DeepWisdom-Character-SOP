@@ -1,0 +1,5 @@
+[name="歌蕾蒂娅"]难道你不想帮她？
+[Character(name="char_263_skadi#9",name2="avg_474_gladiia_1",focus=1)]
+[name="斯卡蒂"]这样能帮她？
+[Character(name="char_263_skadi#9",name2="avg_474_gladiia_1",focus=2)]
+[name="歌蕾蒂娅"]也许可以。

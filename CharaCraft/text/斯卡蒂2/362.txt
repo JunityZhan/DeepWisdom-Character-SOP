@@ -1,0 +1,5 @@
+[CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=true)]
+[delay(time=0.51)]
+[name="斯卡蒂"]......我的心跳，在加快。
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]

@@ -1,0 +1,10 @@
+[Delay(time=1)]
+[Character(name="char_263_skadi#3",fadetime=0.5)]
+[name="斯卡蒂"]......太弱了。
+[name="斯卡蒂"]它们这样前仆后继，就像在拖延时间......
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]......又或者，它们是在......散播什么？
+[Character(name="char_263_skadi#8")]
+[name="斯卡蒂"]得找出它们的头儿。
+[Character(name="avg_npc_457_1#1$1")]
+[name="恐鱼"]——嘎——！

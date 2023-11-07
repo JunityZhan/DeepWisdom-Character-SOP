@@ -1,0 +1,6 @@
+[delay(time=0.51)]
+[character(name="avg_1012_skadiSP_1#1",fadetime=1)]
+[name="斯卡蒂"]（拍了拍裙摆）
+[name="斯卡蒂"]多了一个弹孔，不能原样还给何塞先生了。
+[character(name="avg_npc_182#5")]
+[CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]

@@ -1,0 +1,7 @@
+[name="歌蕾蒂娅"]我要走了。再不走他会起疑心。
+[character(name="avg_474_gladiia_1#1",name2="avg_1012_skadiSP_1#1",focus=2)]
+[name="斯卡蒂"]二队长！你到底在盘算什么？
+[name="斯卡蒂"]你是不是需要队友？你需要队友的话，为什么不说？！
+[name="斯卡蒂"]要么你是敌人？如果你是敌人，刚才我想用贝壳了结你的时候，你为什么没有反过来杀了我？！
+[character(name="avg_474_gladiia_1#1",name2="avg_1012_skadiSP_1#1",focus=1)]
+[name="歌蕾蒂娅"]......

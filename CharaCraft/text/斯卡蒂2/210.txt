@@ -1,0 +1,5 @@
+[name="女性居民"]这不对，教士说了，我们不该怀疑他人。哎，他们都说我总是爱想各种问题，这样对好的生活并没有帮助。
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#2",focus=1)]
+[name="斯卡蒂"]这也是他说的？
+[Character(name="avg_1012_skadiSP_1#4", name2="avg_npc_180#3",focus=2)]
+[name="女性居民"]哈哈，他可不会对我说这个，我早溜走哩。

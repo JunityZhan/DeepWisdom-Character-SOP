@@ -1,0 +1,5 @@
+[name="恐鱼"]（在原地打转的窸窣声）
+[Character(name="char_263_skadi#6")]
+[name="斯卡蒂"]——等等！幽灵鲨！气味在我们脚下！
+[dialog]
+[Character(fadetime=0)]

@@ -1,0 +1,5 @@
+[name="安妮塔"]快跟我进屋里去吧，里面暖和些。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#4",focus=1)]
+[name="斯卡蒂"]不用。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#3",focus=2)]
+[name="安妮塔"]好吧，这个给你，我找到吃的了。我把我缝了一半的衣服给了壁炉叔，从他那里拿了这些，他那里还剩下不少吃的，应该不在意。

@@ -1,0 +1,6 @@
+[name="罗德岛干员"]从头到尾，只有“完成”两个字啊！
+[character(name="char_016_medic",name2="char_263_skadi#3",focus=2)]
+[name="斯卡蒂"]嗯？
+[name="斯卡蒂"]任务确实完成了。
+[character(name="char_016_medic",name2="char_263_skadi#3",focus=1)]
+[name="罗德岛干员"]是、是这样没错......

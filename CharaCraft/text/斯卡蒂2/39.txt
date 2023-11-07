@@ -1,0 +1,9 @@
+[Character(name="char_263_skadi#3",fadetime=0.5)]
+[Delay(time=1)]
+[name="斯卡蒂"]......整整一百只。但感觉没有丝毫作用。
+[Character(name="avg_1023_ghost2_1#4$1")]
+[name="幽灵鲨"]它们就像星星。
+[Character(name="char_263_skadi#3")]
+[name="斯卡蒂"]突围不算困难，可守护这座灯塔？这要砍到什么时候？
+[Character(name="avg_1023_ghost2_1#4$1")]
+[name="幽灵鲨"]它们的尸首在融化分解，化作那些斑斓的地毯。

@@ -1,0 +1,9 @@
+[name="安妮塔"]别转啦奶奶，你累了。歌手会唱歌的，对不对啊歌手？
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#1",focus=1)]
+[name="斯卡蒂"]......
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#1",focus=2)]
+[name="安妮塔"]现在，歌手，把手给我吧，我看看你伤得怎样。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#1",focus=1)]
+[name="斯卡蒂"]......不行。
+[character(name="avg_1012_skadiSP_1#1",name2="avg_npc_180#1",focus=2)]
+[name="安妮塔"]不能靠近你，因为会有危险对不对？

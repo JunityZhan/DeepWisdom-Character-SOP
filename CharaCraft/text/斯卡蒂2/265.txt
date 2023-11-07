@@ -1,0 +1,5 @@
+[name="老何塞"]喝完这点酒，以后我们就大路朝天，各走各边。
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=1)]
+[name="斯卡蒂"]......好。
+[character(name="char_263_skadi#3",name2="avg_npc_181",focus=2)]
+[CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]

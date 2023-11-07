@@ -1,0 +1,5 @@
+[delay(time=1)]
+[name="审判官"]快交代！你潜入这里的意图是什么？
+[name="斯卡蒂"]你管得太多了。
+[dialog]
+[delay(time=1)]

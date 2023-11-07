@@ -1,0 +1,5 @@
+[name="安妮塔"]我就是想说，真要动手的话，哼，我也不会怕他。
+[Character(name="avg_npc_180#3", name2="avg_1012_skadiSP_1#4",focus=2)]
+[name="斯卡蒂"]哦。
+[dialog]
+[delay(time=1)]

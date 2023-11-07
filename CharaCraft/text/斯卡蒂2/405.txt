@@ -1,0 +1,5 @@
+[name="主教"]......她也只是个试验品！
+[character(name="avg_1012_skadiSP_1#1")]
+[name="斯卡蒂"]鲨鱼，你早醒了吧？
+[dialog]
+[character(name="avg_npc_184")]

@@ -1,0 +1,5 @@
+[Character(name="char_263_skadi#8")]
+[PlaySound(key="$rungeneral", volume=0.9)]
+[name="斯卡蒂"]想都别想！
+[dialog]
+[CameraShake(duration=0.3, xstrength=0, ystrength=0, vibrato=30, randomness=90, fadeout=true, block=true)]

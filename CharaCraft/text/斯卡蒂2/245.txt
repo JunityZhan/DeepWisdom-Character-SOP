@@ -1,0 +1,5 @@
+[name="男性居民B"]咳，铁皮，你手里的贝壳......你的手，捏得好紧。是不是要流血了？红红的，我看见了......
+[character(name="avg_1012_skadiSP_1#4")]
+[name="斯卡蒂"]想要祝福的话，我这里没有。
+[character(name="avg_npc_187",name2="avg_npc_178",focus=2)]
+[name="男性居民A"]你什么都不懂。
