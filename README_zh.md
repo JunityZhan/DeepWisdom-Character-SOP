@@ -1,6 +1,6 @@
 [English](README.md)
 
-# CharaCraft-AI
+# DeepWisdom-Character-SOP
 
 本项目旨在帮助用户创建或微调自定义的角色扮演大语言模型，提供一种新颖且互动的聊天体验。
 
